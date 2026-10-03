@@ -58,6 +58,7 @@ Still Being Built
 Architecture
 
 PrepMate follows a normal MERN architecture.
+
 ```mermaid
 flowchart TD
 
@@ -160,15 +161,17 @@ Backend
 - Axios
 - JSON Web Token
 - bcryptjs
-- dotenv
-- CORS
+- dotenv- CORS
 
+## External Services
 
-External Services
 - Judge0 for code execution
 - Quiz API integration exists in the backend
 - AI SDK dependencies are present, but the AI backend is still being implemented
-Project Structure
+
+## Project Structure
+
+```text
 SIP/
 │
 ├── client/
@@ -200,9 +203,13 @@ SIP/
     ├── services/
     ├── utils/
     └── server.js
-  
-Backend Structure
+```
+
+## Backend Structure
+
 The backend is split into small parts instead of keeping everything inside one file.
+
+```text
 server/
 │
 ├── config/
@@ -261,8 +268,7 @@ server/
 │   └── seedProblems.js
 │
 └── server.js
-
-
+```
 
 
 Current Backend APIs
