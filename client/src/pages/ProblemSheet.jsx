@@ -375,7 +375,7 @@ function ProblemSheet() {
                                 <td className="p-5">
 
                                     <span className="inline-flex items-center justify-center text-white text-lg font-bold">
-                                        {solvedProblems.includes(problem?.slug) ? "✓" : "❌"}
+                                        {solvedProblems.includes(problem?.slug) ? "✓" : "NOT SOLVED"}
                                     </span>
 
                                 </td>

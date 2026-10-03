@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Process Management",
+      "A third-party module replacing native Process Management",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A standard exception thrown by Concurrency"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "A third-party module replacing native Memory Paging"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Deadlocks principles",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems",
+      "A third-party module replacing native Deadlocks"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "An unoptimized O(n^2) approach to File Systems",
+      "A standard exception thrown by File Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A third-party module replacing native Scheduling",
+      "An unoptimized O(n^2) approach to Scheduling",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A legacy implementation of Process Management in Operating Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Concurrency principles",
+      "An unoptimized O(n^2) approach to Concurrency"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "A third-party module replacing native Memory Paging"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Deadlocks principles",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "An unoptimized O(n^2) approach to File Systems",
+      "An alternative syntax ignoring File Systems principles",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "A standard exception thrown by Scheduling",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Scheduling"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A third-party module replacing native Process Management",
+      "A synchronous blocking operation in Operating Systems",
+      "An alternative syntax ignoring Process Management principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A legacy implementation of Concurrency in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "A standard exception thrown by Memory Paging",
+      "An unoptimized O(n^2) approach to Memory Paging",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "An alternative syntax ignoring Deadlocks principles",
+      "A third-party module replacing native Deadlocks"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "A standard exception thrown by File Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "An alternative syntax ignoring File Systems principles",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A legacy implementation of Scheduling in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Process Management",
+      "A legacy implementation of Process Management in Operating Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A legacy implementation of Concurrency in Operating Systems",
+      "An alternative syntax ignoring Concurrency principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Memory Paging principles",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Memory Paging",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Deadlocks",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "An unoptimized O(n^2) approach to File Systems",
+      "A standard exception thrown by File Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Scheduling principles",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A legacy implementation of Scheduling in Operating Systems",
+      "An unoptimized O(n^2) approach to Scheduling"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Process Management",
+      "A third-party module replacing native Process Management",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Concurrency principles",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Concurrency"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Memory Paging principles",
+      "A synchronous blocking operation in Operating Systems",
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Deadlocks principles",
+      "A standard exception thrown by Deadlocks",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to File Systems",
+      "A standard exception thrown by File Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring File Systems principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A synchronous blocking operation in Operating Systems",
+      "An unoptimized O(n^2) approach to Scheduling"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A legacy implementation of Process Management in Operating Systems",
+      "An unoptimized O(n^2) approach to Process Management",
+      "A standard exception thrown by Process Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Concurrency principles",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A standard exception thrown by Concurrency",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "A standard exception thrown by Memory Paging",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Memory Paging"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Deadlocks principles",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A standard exception thrown by Deadlocks",
+      "An unoptimized O(n^2) approach to Deadlocks"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "A standard exception thrown by File Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A legacy implementation of File Systems in Operating Systems",
+      "An unoptimized O(n^2) approach to File Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A legacy implementation of Scheduling in Operating Systems",
+      "An unoptimized O(n^2) approach to Scheduling",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A legacy implementation of Process Management in Operating Systems",
+      "An unoptimized O(n^2) approach to Process Management",
+      "An alternative syntax ignoring Process Management principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "A third-party module replacing native Concurrency",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Concurrency"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Memory Paging",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A legacy implementation of Memory Paging in Operating Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems",
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "A third-party module replacing native Deadlocks"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to File Systems",
+      "An alternative syntax ignoring File Systems principles",
+      "A legacy implementation of File Systems in Operating Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "A legacy implementation of Scheduling in Operating Systems",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Scheduling"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Process Management principles",
+      "A third-party module replacing native Process Management",
+      "An unoptimized O(n^2) approach to Process Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Concurrency principles",
+      "A standard exception thrown by Concurrency",
+      "An unoptimized O(n^2) approach to Concurrency",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "An alternative syntax ignoring Memory Paging principles",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "An alternative syntax ignoring Deadlocks principles",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring File Systems principles",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Scheduling",
+      "A legacy implementation of Scheduling in Operating Systems",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Scheduling principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A legacy implementation of Process Management in Operating Systems",
+      "An alternative syntax ignoring Process Management principles",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A legacy implementation of Concurrency in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Concurrency",
+      "An alternative syntax ignoring Concurrency principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "A standard exception thrown by Memory Paging"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "An alternative syntax ignoring Deadlocks principles",
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to File Systems",
+      "A legacy implementation of File Systems in Operating Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Scheduling principles",
+      "A standard exception thrown by Scheduling",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A third-party module replacing native Scheduling"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Process Management",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A third-party module replacing native Process Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A standard exception thrown by Concurrency",
+      "A deprecated feature removed in recent Operating Systems versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "An unoptimized O(n^2) approach to Memory Paging",
+      "A third-party module replacing native Memory Paging",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Deadlocks",
+      "An alternative syntax ignoring Deadlocks principles",
+      "A standard exception thrown by Deadlocks",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A third-party module replacing native File Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "An unoptimized O(n^2) approach to File Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Scheduling",
+      "A standard exception thrown by Scheduling",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Scheduling principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Process Management principles",
+      "A legacy implementation of Process Management in Operating Systems",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Concurrency",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A third-party module replacing native Concurrency"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Memory Paging",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "A standard exception thrown by Memory Paging"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A standard exception thrown by Deadlocks"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to File Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring File Systems principles",
+      "A standard exception thrown by File Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Scheduling",
+      "An unoptimized O(n^2) approach to Scheduling",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A legacy implementation of Scheduling in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A legacy implementation of Process Management in Operating Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Process Management principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Concurrency",
+      "An alternative syntax ignoring Concurrency principles",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A standard exception thrown by Concurrency"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Memory Paging principles",
+      "A standard exception thrown by Memory Paging",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Memory Paging"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Deadlocks",
+      "An alternative syntax ignoring Deadlocks principles",
+      "A third-party module replacing native Deadlocks",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "A third-party module replacing native File Systems",
+      "A standard exception thrown by File Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A standard exception thrown by Scheduling",
+      "A third-party module replacing native Scheduling",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Process Management",
+      "An alternative syntax ignoring Process Management principles",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A third-party module replacing native Concurrency",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Memory Paging",
+      "An alternative syntax ignoring Memory Paging principles",
+      "A third-party module replacing native Memory Paging"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "A standard exception thrown by Deadlocks",
+      "A legacy implementation of Deadlocks in Operating Systems"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring File Systems principles",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A legacy implementation of File Systems in Operating Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Scheduling",
+      "An alternative syntax ignoring Scheduling principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A third-party module replacing native Process Management",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A standard exception thrown by Process Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A standard exception thrown by Concurrency",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Concurrency principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Memory Paging",
+      "An alternative syntax ignoring Memory Paging principles",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Memory Paging"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A third-party module replacing native Deadlocks",
+      "A legacy implementation of Deadlocks in Operating Systems",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "A synchronous blocking operation in Operating Systems",
+      "A legacy implementation of File Systems in Operating Systems",
+      "A standard exception thrown by File Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Scheduling",
+      "A synchronous blocking operation in Operating Systems",
+      "A legacy implementation of Scheduling in Operating Systems",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A legacy implementation of Process Management in Operating Systems",
+      "A standard exception thrown by Process Management",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A third-party module replacing native Concurrency",
+      "An alternative syntax ignoring Concurrency principles",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Memory Paging",
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "A third-party module replacing native Memory Paging",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A legacy implementation of Deadlocks in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "An unoptimized O(n^2) approach to File Systems",
+      "A standard exception thrown by File Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A legacy implementation of Scheduling in Operating Systems",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems",
+      "A third-party module replacing native Scheduling"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "An alternative syntax ignoring Process Management principles",
+      "A third-party module replacing native Process Management",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+      "A legacy implementation of Process Management in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Concurrency",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "An alternative syntax ignoring Concurrency principles",
+      "A synchronous blocking operation in Operating Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A legacy implementation of Memory Paging in Operating Systems",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+      "An unoptimized O(n^2) approach to Memory Paging"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "An alternative syntax ignoring Deadlocks principles",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A third-party module replacing native Deadlocks"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "File Systems",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of File Systems in Operating Systems?",
+    "options": [
+      "A third-party module replacing native File Systems",
+      "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+      "A synchronous blocking operation in Operating Systems",
+      "An unoptimized O(n^2) approach to File Systems"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of File Systems within the Operating Systems ecosystem.",
+    "explanation": "Understanding File Systems is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Scheduling",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Scheduling in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Scheduling",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+      "A third-party module replacing native Scheduling"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Scheduling within the Operating Systems ecosystem.",
+    "explanation": "Understanding Scheduling is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Process Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Process Management in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A standard exception thrown by Process Management",
+      "An alternative syntax ignoring Process Management principles",
+      "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Process Management within the Operating Systems ecosystem.",
+    "explanation": "Understanding Process Management is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Concurrency",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Concurrency in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Concurrency",
+      "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+      "A deprecated feature removed in recent Operating Systems versions",
+      "An alternative syntax ignoring Concurrency principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Concurrency within the Operating Systems ecosystem.",
+    "explanation": "Understanding Concurrency is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Memory Paging",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Paging in Operating Systems?",
+    "options": [
+      "A deprecated feature removed in recent Operating Systems versions",
+      "A standard exception thrown by Memory Paging",
+      "A synchronous blocking operation in Operating Systems",
+      "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Paging within the Operating Systems ecosystem.",
+    "explanation": "Understanding Memory Paging is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "operating systems",
+    "topic": "Deadlocks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deadlocks in Operating Systems?",
+    "options": [
+      "A standard exception thrown by Deadlocks",
+      "An unoptimized O(n^2) approach to Deadlocks",
+      "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+      "A legacy implementation of Deadlocks in Operating Systems"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deadlocks within the Operating Systems ecosystem.",
+    "explanation": "Understanding Deadlocks is critical in Operating Systems. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Dynamic Programming principles",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A standard exception thrown by Dynamic Programming"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A legacy implementation of Heaps in Data Structures",
+      "A third-party module replacing native Heaps",
+      "An unoptimized O(n^2) approach to Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Arrays principles",
+      "A standard exception thrown by Arrays",
+      "An unoptimized O(n^2) approach to Arrays",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A standard exception thrown by Linked Lists",
+      "A third-party module replacing native Linked Lists",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Linked Lists"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A third-party module replacing native Trees",
+      "A legacy implementation of Trees in Data Structures",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A legacy implementation of Graphs in Data Structures"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A legacy implementation of Hash Tables in Data Structures",
+      "An alternative syntax ignoring Hash Tables principles",
+      "An unoptimized O(n^2) approach to Hash Tables",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A third-party module replacing native Dynamic Programming",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A standard exception thrown by Dynamic Programming",
+      "A legacy implementation of Dynamic Programming in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A standard exception thrown by Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "A legacy implementation of Heaps in Data Structures",
+      "An alternative syntax ignoring Heaps principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A legacy implementation of Arrays in Data Structures",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A third-party module replacing native Arrays",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "An alternative syntax ignoring Linked Lists principles",
+      "A third-party module replacing native Linked Lists",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Trees",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A third-party module replacing native Trees"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A legacy implementation of Graphs in Data Structures",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Graphs",
+      "A third-party module replacing native Graphs"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Hash Tables principles",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Dynamic Programming principles",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A standard exception thrown by Dynamic Programming"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A third-party module replacing native Heaps",
+      "An alternative syntax ignoring Heaps principles",
+      "An unoptimized O(n^2) approach to Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "An alternative syntax ignoring Arrays principles",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A standard exception thrown by Arrays"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A legacy implementation of Linked Lists in Data Structures",
+      "An unoptimized O(n^2) approach to Linked Lists",
+      "A deprecated feature removed in recent Data Structures versions",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An alternative syntax ignoring Trees principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A third-party module replacing native Graphs",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A standard exception thrown by Hash Tables",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Hash Tables principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A standard exception thrown by Dynamic Programming",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "An alternative syntax ignoring Dynamic Programming principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "An alternative syntax ignoring Heaps principles",
+      "A third-party module replacing native Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A legacy implementation of Arrays in Data Structures",
+      "A third-party module replacing native Arrays"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "An unoptimized O(n^2) approach to Linked Lists",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A legacy implementation of Trees in Data Structures",
+      "A third-party module replacing native Trees",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A standard exception thrown by Graphs",
+      "An unoptimized O(n^2) approach to Graphs",
+      "A third-party module replacing native Graphs"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Hash Tables",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "A legacy implementation of Hash Tables in Data Structures"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Dynamic Programming principles",
+      "An unoptimized O(n^2) approach to Dynamic Programming",
+      "A third-party module replacing native Dynamic Programming",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Heaps",
+      "A standard exception thrown by Heaps",
+      "An alternative syntax ignoring Heaps principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A legacy implementation of Arrays in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A standard exception thrown by Arrays",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "A legacy implementation of Linked Lists in Data Structures",
+      "A standard exception thrown by Linked Lists"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A legacy implementation of Trees in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Graphs principles",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Hash Tables principles",
+      "A standard exception thrown by Hash Tables",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A standard exception thrown by Dynamic Programming",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Dynamic Programming",
+      "An alternative syntax ignoring Dynamic Programming principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A standard exception thrown by Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Heaps",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Arrays principles",
+      "A third-party module replacing native Arrays",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A third-party module replacing native Linked Lists",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A legacy implementation of Linked Lists in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A third-party module replacing native Trees",
+      "An alternative syntax ignoring Trees principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "In the 0/1 Knapsack Problem, what does the dynamic programming approach primarily optimize?",
+    "options": [
+      "Overlapping subproblems by storing calculated states",
+      "A synchronous blocking operation in Data Structures",
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "A third-party module replacing native Dynamic Programming"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "Overlapping subproblems by storing calculated states",
+    "explanation": "DP solves the 0/1 Knapsack problem efficiently by storing the results of overlapping subproblems in a 2D array, avoiding exponential redundant calculations.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which data structure combination is most optimal for finding the Top K Frequent Elements in an array?",
+    "options": [
+      "A Hash Map for frequencies combined with a Min-Heap of size K",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An unoptimized O(n^2) approach to Heaps",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "A Hash Map for frequencies combined with a Min-Heap of size K",
+    "explanation": "A Hash Map effectively counts the frequencies, while a Min-Heap constrained to size K efficiently keeps track of the top K elements in O(N log K) time.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "An unoptimized O(n^2) approach to Dynamic Programming"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A legacy implementation of Heaps in Data Structures",
+      "A synchronous blocking operation in Data Structures",
+      "A third-party module replacing native Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A legacy implementation of Arrays in Data Structures",
+      "A third-party module replacing native Arrays",
+      "An alternative syntax ignoring Arrays principles",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Linked Lists principles",
+      "A legacy implementation of Linked Lists in Data Structures",
+      "A third-party module replacing native Linked Lists"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A legacy implementation of Trees in Data Structures",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Trees principles",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A standard exception thrown by Graphs",
+      "An alternative syntax ignoring Graphs principles",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Hash Tables principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Dynamic Programming",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Dynamic Programming principles",
+      "A legacy implementation of Dynamic Programming in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A standard exception thrown by Heaps",
+      "A third-party module replacing native Heaps"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Arrays",
+      "A standard exception thrown by Arrays"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A third-party module replacing native Linked Lists",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A legacy implementation of Linked Lists in Data Structures",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A legacy implementation of Trees in Data Structures",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An alternative syntax ignoring Trees principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A third-party module replacing native Graphs",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An alternative syntax ignoring Graphs principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A third-party module replacing native Hash Tables",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A legacy implementation of Hash Tables in Data Structures",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A standard exception thrown by Dynamic Programming",
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "An unoptimized O(n^2) approach to Dynamic Programming"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A standard exception thrown by Heaps",
+      "An alternative syntax ignoring Heaps principles",
+      "A legacy implementation of Heaps in Data Structures",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A legacy implementation of Arrays in Data Structures",
+      "A third-party module replacing native Arrays",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An unoptimized O(n^2) approach to Linked Lists"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A standard exception thrown by Trees",
+      "An alternative syntax ignoring Trees principles",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "An unoptimized O(n^2) approach to Graphs",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A standard exception thrown by Graphs"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "An alternative syntax ignoring Hash Tables principles",
+      "A third-party module replacing native Hash Tables",
+      "A legacy implementation of Hash Tables in Data Structures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A standard exception thrown by Dynamic Programming",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A third-party module replacing native Dynamic Programming"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Heaps",
+      "A legacy implementation of Heaps in Data Structures",
+      "An alternative syntax ignoring Heaps principles",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A legacy implementation of Arrays in Data Structures",
+      "A standard exception thrown by Arrays"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Linked Lists",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "A standard exception thrown by Linked Lists",
+      "A synchronous blocking operation in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A legacy implementation of Trees in Data Structures",
+      "A standard exception thrown by Trees",
+      "An alternative syntax ignoring Trees principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Graphs principles",
+      "An unoptimized O(n^2) approach to Graphs",
+      "A standard exception thrown by Graphs",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A third-party module replacing native Hash Tables",
+      "A synchronous blocking operation in Data Structures",
+      "A standard exception thrown by Hash Tables",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "An alternative syntax ignoring Dynamic Programming principles",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A standard exception thrown by Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Heaps"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A legacy implementation of Arrays in Data Structures",
+      "A synchronous blocking operation in Data Structures",
+      "A standard exception thrown by Arrays",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A third-party module replacing native Linked Lists",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Linked Lists",
+      "A standard exception thrown by Linked Lists"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "An alternative syntax ignoring Trees principles",
+      "A third-party module replacing native Trees",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A legacy implementation of Graphs in Data Structures",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A third-party module replacing native Graphs",
+      "A standard exception thrown by Graphs"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A third-party module replacing native Hash Tables",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Hash Tables"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "A third-party module replacing native Dynamic Programming"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "A third-party module replacing native Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A standard exception thrown by Heaps"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Arrays principles",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Arrays"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A legacy implementation of Linked Lists in Data Structures",
+      "A standard exception thrown by Linked Lists",
+      "An alternative syntax ignoring Linked Lists principles",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Trees",
+      "An alternative syntax ignoring Trees principles",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+      "A standard exception thrown by Trees"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A third-party module replacing native Graphs",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A standard exception thrown by Graphs",
+      "An alternative syntax ignoring Graphs principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A third-party module replacing native Hash Tables",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "A legacy implementation of Hash Tables in Data Structures"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An unoptimized O(n^2) approach to Dynamic Programming",
+      "A legacy implementation of Dynamic Programming in Data Structures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Heaps principles",
+      "A legacy implementation of Heaps in Data Structures",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A third-party module replacing native Arrays",
+      "A legacy implementation of Arrays in Data Structures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "An alternative syntax ignoring Linked Lists principles",
+      "A legacy implementation of Linked Lists in Data Structures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Trees",
+      "A legacy implementation of Trees in Data Structures",
+      "An alternative syntax ignoring Trees principles",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Graphs principles",
+      "A third-party module replacing native Graphs",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+      "A deprecated feature removed in recent Data Structures versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A standard exception thrown by Hash Tables",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "A legacy implementation of Hash Tables in Data Structures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A legacy implementation of Dynamic Programming in Data Structures",
+      "A deprecated feature removed in recent Data Structures versions",
+      "An unoptimized O(n^2) approach to Dynamic Programming",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "An alternative syntax ignoring Heaps principles",
+      "A standard exception thrown by Heaps",
+      "A legacy implementation of Heaps in Data Structures",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Arrays",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Arrays in Data Structures?",
+    "options": [
+      "A standard exception thrown by Arrays",
+      "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+      "A synchronous blocking operation in Data Structures",
+      "An unoptimized O(n^2) approach to Arrays"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Arrays within the Data Structures ecosystem.",
+    "explanation": "Understanding Arrays is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Linked Lists",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Linked Lists in Data Structures?",
+    "options": [
+      "A deprecated feature removed in recent Data Structures versions",
+      "A synchronous blocking operation in Data Structures",
+      "An alternative syntax ignoring Linked Lists principles",
+      "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Linked Lists within the Data Structures ecosystem.",
+    "explanation": "Understanding Linked Lists is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Trees",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Trees in Data Structures?",
+    "options": [
+      "A third-party module replacing native Trees",
+      "A deprecated feature removed in recent Data Structures versions",
+      "A legacy implementation of Trees in Data Structures",
+      "It manages the core execution and optimization of Trees within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Trees within the Data Structures ecosystem.",
+    "explanation": "Understanding Trees is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Graphs",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Graphs in Data Structures?",
+    "options": [
+      "A synchronous blocking operation in Data Structures",
+      "A third-party module replacing native Graphs",
+      "A legacy implementation of Graphs in Data Structures",
+      "It manages the core execution and optimization of Graphs within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Graphs within the Data Structures ecosystem.",
+    "explanation": "Understanding Graphs is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Hash Tables",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hash Tables in Data Structures?",
+    "options": [
+      "A standard exception thrown by Hash Tables",
+      "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+      "A legacy implementation of Hash Tables in Data Structures",
+      "A third-party module replacing native Hash Tables"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hash Tables within the Data Structures ecosystem.",
+    "explanation": "Understanding Hash Tables is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Dynamic Programming",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Dynamic Programming in Data Structures?",
+    "options": [
+      "A standard exception thrown by Dynamic Programming",
+      "A synchronous blocking operation in Data Structures",
+      "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+      "An unoptimized O(n^2) approach to Dynamic Programming"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Dynamic Programming within the Data Structures ecosystem.",
+    "explanation": "Understanding Dynamic Programming is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "data structures",
+    "topic": "Heaps",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Heaps in Data Structures?",
+    "options": [
+      "An unoptimized O(n^2) approach to Heaps",
+      "An alternative syntax ignoring Heaps principles",
+      "A third-party module replacing native Heaps",
+      "It manages the core execution and optimization of Heaps within the Data Structures ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Heaps within the Data Structures ecosystem.",
+    "explanation": "Understanding Heaps is critical in Data Structures. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

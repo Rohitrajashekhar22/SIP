@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A legacy implementation of Memory Management in Python",
+      "An alternative syntax ignoring Memory Management principles",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A standard exception thrown by Memory Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A legacy implementation of Generators in Python",
+      "A third-party module replacing native Generators",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "An alternative syntax ignoring Generators principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A legacy implementation of Decorators in Python",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "An alternative syntax ignoring Decorators principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A standard exception thrown by GIL",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "A third-party module replacing native GIL"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A third-party module replacing native Data Types",
+      "A standard exception thrown by Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions",
+      "A synchronous blocking operation in Python",
+      "A third-party module replacing native OOP"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "A legacy implementation of File I/O in Python",
+      "A third-party module replacing native File I/O",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "A third-party module replacing native Memory Management",
+      "An unoptimized O(n^2) approach to Memory Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "An unoptimized O(n^2) approach to Generators"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "An unoptimized O(n^2) approach to Decorators",
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native Decorators",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "An alternative syntax ignoring GIL principles",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A standard exception thrown by Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A third-party module replacing native Data Types",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "An unoptimized O(n^2) approach to OOP",
+      "An alternative syntax ignoring OOP principles",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A legacy implementation of OOP in Python"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A third-party module replacing native File I/O",
+      "An alternative syntax ignoring File I/O principles",
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A standard exception thrown by Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "An unoptimized O(n^2) approach to Generators",
+      "A legacy implementation of Generators in Python",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "A third-party module replacing native Generators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A standard exception thrown by Decorators",
+      "An alternative syntax ignoring Decorators principles",
+      "A third-party module replacing native Decorators",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native GIL",
+      "It manages the core execution and optimization of GIL within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A third-party module replacing native Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "An alternative syntax ignoring Data Types principles",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A legacy implementation of OOP in Python",
+      "An alternative syntax ignoring OOP principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "An alternative syntax ignoring File I/O principles",
+      "An unoptimized O(n^2) approach to File I/O",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native Memory Management",
+      "An unoptimized O(n^2) approach to Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Generators",
+      "A deprecated feature removed in recent Python versions",
+      "A standard exception thrown by Generators"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "A third-party module replacing native Decorators",
+      "A deprecated feature removed in recent Python versions",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "An alternative syntax ignoring GIL principles",
+      "A third-party module replacing native GIL"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A standard exception thrown by Data Types",
+      "A deprecated feature removed in recent Python versions",
+      "An unoptimized O(n^2) approach to Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "An alternative syntax ignoring OOP principles",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A third-party module replacing native File I/O",
+      "A synchronous blocking operation in Python",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A standard exception thrown by Memory Management",
+      "A third-party module replacing native Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A standard exception thrown by Generators",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Generators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A legacy implementation of Decorators in Python",
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native Decorators",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "An alternative syntax ignoring GIL principles",
+      "A legacy implementation of GIL in Python",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "A standard exception thrown by GIL"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A third-party module replacing native Data Types",
+      "An alternative syntax ignoring Data Types principles",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A third-party module replacing native OOP",
+      "An unoptimized O(n^2) approach to OOP",
+      "A standard exception thrown by OOP",
+      "It manages the core execution and optimization of OOP within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A standard exception thrown by File I/O",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "An alternative syntax ignoring File I/O principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "An unoptimized O(n^2) approach to Memory Management",
+      "A legacy implementation of Memory Management in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "An alternative syntax ignoring Generators principles",
+      "A legacy implementation of Generators in Python",
+      "It manages the core execution and optimization of Generators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A third-party module replacing native Decorators",
+      "An alternative syntax ignoring Decorators principles",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Decorators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A third-party module replacing native GIL",
+      "An alternative syntax ignoring GIL principles",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A standard exception thrown by Data Types",
+      "A legacy implementation of Data Types in Python",
+      "An alternative syntax ignoring Data Types principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "An alternative syntax ignoring OOP principles",
+      "A deprecated feature removed in recent Python versions",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "An alternative syntax ignoring File I/O principles",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A standard exception thrown by Memory Management",
+      "An alternative syntax ignoring Memory Management principles",
+      "An unoptimized O(n^2) approach to Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "An alternative syntax ignoring Generators principles",
+      "An unoptimized O(n^2) approach to Generators",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of Generators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A third-party module replacing native Decorators",
+      "An unoptimized O(n^2) approach to Decorators",
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "An alternative syntax ignoring GIL principles",
+      "An unoptimized O(n^2) approach to GIL",
+      "It manages the core execution and optimization of GIL within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "An alternative syntax ignoring Data Types principles",
+      "A third-party module replacing native Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A third-party module replacing native OOP",
+      "An unoptimized O(n^2) approach to OOP",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A standard exception thrown by OOP"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "An unoptimized O(n^2) approach to File I/O",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "A legacy implementation of Memory Management in Python",
+      "A third-party module replacing native Memory Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "An alternative syntax ignoring Generators principles",
+      "A third-party module replacing native Generators",
+      "A standard exception thrown by Generators"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "A legacy implementation of Decorators in Python",
+      "A standard exception thrown by Decorators",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to GIL",
+      "A standard exception thrown by GIL",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A standard exception thrown by Data Types",
+      "A deprecated feature removed in recent Python versions",
+      "A legacy implementation of Data Types in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A legacy implementation of OOP in Python",
+      "A standard exception thrown by OOP",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "An alternative syntax ignoring File I/O principles",
+      "A deprecated feature removed in recent Python versions",
+      "A legacy implementation of File I/O in Python",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A legacy implementation of Memory Management in Python",
+      "A standard exception thrown by Memory Management",
+      "An alternative syntax ignoring Memory Management principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A legacy implementation of Generators in Python",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "A third-party module replacing native Generators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A standard exception thrown by Decorators",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Decorators",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions",
+      "An unoptimized O(n^2) approach to GIL",
+      "A third-party module replacing native GIL"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A standard exception thrown by Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "An alternative syntax ignoring Data Types principles",
+      "A synchronous blocking operation in Python"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A standard exception thrown by OOP",
+      "A third-party module replacing native OOP"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A legacy implementation of File I/O in Python",
+      "A standard exception thrown by File I/O",
+      "An unoptimized O(n^2) approach to File I/O",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A legacy implementation of Memory Management in Python",
+      "An unoptimized O(n^2) approach to Memory Management",
+      "A standard exception thrown by Memory Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "An unoptimized O(n^2) approach to Generators",
+      "A deprecated feature removed in recent Python versions",
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of Generators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "An unoptimized O(n^2) approach to Decorators",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "A third-party module replacing native Decorators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A standard exception thrown by GIL",
+      "A legacy implementation of GIL in Python",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "An alternative syntax ignoring GIL principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A standard exception thrown by Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Data Types",
+      "An alternative syntax ignoring Data Types principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "A synchronous blocking operation in Python",
+      "A legacy implementation of OOP in Python",
+      "It manages the core execution and optimization of OOP within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "A third-party module replacing native File I/O",
+      "A standard exception thrown by File I/O"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A standard exception thrown by Memory Management",
+      "A legacy implementation of Memory Management in Python",
+      "A third-party module replacing native Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "A standard exception thrown by Generators",
+      "An unoptimized O(n^2) approach to Generators"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "A third-party module replacing native Decorators",
+      "A synchronous blocking operation in Python",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A synchronous blocking operation in Python",
+      "A standard exception thrown by GIL",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to GIL"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "A legacy implementation of Data Types in Python",
+      "A standard exception thrown by Data Types",
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "An alternative syntax ignoring Data Types principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A standard exception thrown by OOP",
+      "A synchronous blocking operation in Python",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of OOP within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to File I/O",
+      "A deprecated feature removed in recent Python versions",
+      "A legacy implementation of File I/O in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A third-party module replacing native Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "A third-party module replacing native Generators",
+      "A standard exception thrown by Generators",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Generators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "A legacy implementation of Decorators in Python",
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Decorators",
+      "A third-party module replacing native Decorators"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Hard",
+    "question": "How does Python primarily handle internal memory management for objects?",
+    "options": [
+      "Through a private heap managed by the Python memory manager and cycle-detecting garbage collection",
+      "A legacy implementation of Memory Management in Python",
+      "An alternative syntax ignoring Memory Management principles",
+      "An unoptimized O(n^2) approach to Memory Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "Through a private heap managed by the Python memory manager and cycle-detecting garbage collection",
+    "explanation": "Python relies on a private heap containing all objects and data structures. It uses reference counting supplemented by a garbage collector to detect reference cycles.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A third-party module replacing native Data Types",
+      "A standard exception thrown by Data Types",
+      "A deprecated feature removed in recent Python versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "An alternative syntax ignoring OOP principles",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A standard exception thrown by OOP",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A third-party module replacing native File I/O",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to File I/O",
+      "An alternative syntax ignoring File I/O principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "A standard exception thrown by Memory Management",
+      "A third-party module replacing native Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "An alternative syntax ignoring Memory Management principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "An alternative syntax ignoring Generators principles",
+      "A standard exception thrown by Generators",
+      "An unoptimized O(n^2) approach to Generators",
+      "It manages the core execution and optimization of Generators within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "An unoptimized O(n^2) approach to Decorators",
+      "A third-party module replacing native Decorators",
+      "A legacy implementation of Decorators in Python"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "An alternative syntax ignoring GIL principles",
+      "A legacy implementation of GIL in Python",
+      "An unoptimized O(n^2) approach to GIL"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "An alternative syntax ignoring Data Types principles",
+      "A standard exception thrown by Data Types",
+      "An unoptimized O(n^2) approach to Data Types"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "A standard exception thrown by OOP",
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A third-party module replacing native OOP",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A legacy implementation of File I/O in Python",
+      "An unoptimized O(n^2) approach to File I/O",
+      "An alternative syntax ignoring File I/O principles",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "An alternative syntax ignoring Memory Management principles",
+      "A third-party module replacing native Memory Management",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A legacy implementation of Memory Management in Python"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "An alternative syntax ignoring Generators principles",
+      "A synchronous blocking operation in Python",
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "A third-party module replacing native Generators"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Decorators",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Decorators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native Decorators",
+      "A standard exception thrown by Decorators"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Decorators within the Python ecosystem.",
+    "explanation": "Understanding Decorators is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "GIL",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of GIL in Python?",
+    "options": [
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native GIL",
+      "It manages the core execution and optimization of GIL within the Python ecosystem.",
+      "A legacy implementation of GIL in Python"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of GIL within the Python ecosystem.",
+    "explanation": "Understanding GIL is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Data Types",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Data Types in Python?",
+    "options": [
+      "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+      "A deprecated feature removed in recent Python versions",
+      "A third-party module replacing native Data Types",
+      "An unoptimized O(n^2) approach to Data Types"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Data Types within the Python ecosystem.",
+    "explanation": "Understanding Data Types is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Python?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Python ecosystem.",
+      "A synchronous blocking operation in Python",
+      "An alternative syntax ignoring OOP principles",
+      "A standard exception thrown by OOP"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Python ecosystem.",
+    "explanation": "Understanding OOP is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "File I/O",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of File I/O in Python?",
+    "options": [
+      "A legacy implementation of File I/O in Python",
+      "An alternative syntax ignoring File I/O principles",
+      "A third-party module replacing native File I/O",
+      "It manages the core execution and optimization of File I/O within the Python ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of File I/O within the Python ecosystem.",
+    "explanation": "Understanding File I/O is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Memory Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Memory Management in Python?",
+    "options": [
+      "An unoptimized O(n^2) approach to Memory Management",
+      "A deprecated feature removed in recent Python versions",
+      "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+      "A third-party module replacing native Memory Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Memory Management within the Python ecosystem.",
+    "explanation": "Understanding Memory Management is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "python",
+    "topic": "Generators",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Generators in Python?",
+    "options": [
+      "It manages the core execution and optimization of Generators within the Python ecosystem.",
+      "A third-party module replacing native Generators",
+      "A legacy implementation of Generators in Python",
+      "An alternative syntax ignoring Generators principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Generators within the Python ecosystem.",
+    "explanation": "Understanding Generators is critical in Python. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

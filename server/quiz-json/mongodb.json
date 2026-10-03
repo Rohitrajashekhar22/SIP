@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A third-party module replacing native Aggregation Pipeline",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Documents",
+      "An alternative syntax ignoring Documents principles",
+      "A standard exception thrown by Documents"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A standard exception thrown by Sharding",
+      "A legacy implementation of Sharding in MongoDB",
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "An alternative syntax ignoring Replica Sets principles",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A third-party module replacing native Replica Sets"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A legacy implementation of Aggregation Pipeline in MongoDB",
+      "An alternative syntax ignoring Aggregation Pipeline principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "A legacy implementation of Indexing in MongoDB",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A legacy implementation of Documents in MongoDB",
+      "A synchronous blocking operation in MongoDB",
+      "A third-party module replacing native Documents",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Sharding principles",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A legacy implementation of Sharding in MongoDB",
+      "A standard exception thrown by Sharding"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A third-party module replacing native Replica Sets",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "An alternative syntax ignoring Replica Sets principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A legacy implementation of Aggregation Pipeline in MongoDB",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A third-party module replacing native Indexing",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Indexing",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A standard exception thrown by Documents",
+      "A legacy implementation of Documents in MongoDB",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Documents"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "An alternative syntax ignoring Sharding principles",
+      "An unoptimized O(n^2) approach to Sharding",
+      "A standard exception thrown by Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "A legacy implementation of Replica Sets in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A standard exception thrown by Indexing",
+      "An unoptimized O(n^2) approach to Indexing",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Documents principles",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A standard exception thrown by Documents"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A legacy implementation of Sharding in MongoDB",
+      "An unoptimized O(n^2) approach to Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A third-party module replacing native Replica Sets",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A standard exception thrown by Replica Sets"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A standard exception thrown by Aggregation Pipeline",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A legacy implementation of Indexing in MongoDB",
+      "An alternative syntax ignoring Indexing principles",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A third-party module replacing native Documents",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A standard exception thrown by Documents"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Sharding principles",
+      "A legacy implementation of Sharding in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A third-party module replacing native Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A standard exception thrown by Replica Sets",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A standard exception thrown by Aggregation Pipeline",
+      "A synchronous blocking operation in MongoDB",
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Indexing",
+      "A synchronous blocking operation in MongoDB",
+      "A third-party module replacing native Indexing"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Documents",
+      "An alternative syntax ignoring Documents principles",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A third-party module replacing native Sharding",
+      "A standard exception thrown by Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A legacy implementation of Replica Sets in MongoDB",
+      "An alternative syntax ignoring Replica Sets principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A standard exception thrown by Aggregation Pipeline",
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "An alternative syntax ignoring Indexing principles",
+      "A legacy implementation of Indexing in MongoDB",
+      "A third-party module replacing native Indexing"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A legacy implementation of Documents in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A third-party module replacing native Sharding",
+      "A standard exception thrown by Sharding",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Replica Sets principles",
+      "A third-party module replacing native Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A standard exception thrown by Replica Sets"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "A standard exception thrown by Indexing",
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "An alternative syntax ignoring Documents principles",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Sharding principles",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A third-party module replacing native Sharding",
+      "A legacy implementation of Sharding in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A standard exception thrown by Replica Sets",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A legacy implementation of Replica Sets in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A third-party module replacing native Aggregation Pipeline",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A legacy implementation of Aggregation Pipeline in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Indexing",
+      "A third-party module replacing native Indexing",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "An unoptimized O(n^2) approach to Documents",
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A legacy implementation of Sharding in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A legacy implementation of Replica Sets in MongoDB",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "A third-party module replacing native Replica Sets"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A standard exception thrown by Aggregation Pipeline"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A third-party module replacing native Indexing",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "An alternative syntax ignoring Indexing principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A legacy implementation of Documents in MongoDB",
+      "An unoptimized O(n^2) approach to Documents",
+      "A third-party module replacing native Documents"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A legacy implementation of Sharding in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "An alternative syntax ignoring Replica Sets principles",
+      "A legacy implementation of Replica Sets in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A standard exception thrown by Aggregation Pipeline",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A legacy implementation of Indexing in MongoDB",
+      "An unoptimized O(n^2) approach to Indexing",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A standard exception thrown by Documents",
+      "A third-party module replacing native Documents",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A third-party module replacing native Sharding",
+      "A synchronous blocking operation in MongoDB",
+      "A standard exception thrown by Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A standard exception thrown by Replica Sets",
+      "A third-party module replacing native Replica Sets",
+      "An alternative syntax ignoring Replica Sets principles",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A third-party module replacing native Aggregation Pipeline",
+      "An alternative syntax ignoring Aggregation Pipeline principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A legacy implementation of Indexing in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A third-party module replacing native Indexing"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "An unoptimized O(n^2) approach to Documents",
+      "An alternative syntax ignoring Documents principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Sharding",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A standard exception thrown by Sharding",
+      "A legacy implementation of Sharding in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Replica Sets principles",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A legacy implementation of Replica Sets in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "A third-party module replacing native Aggregation Pipeline",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A legacy implementation of Aggregation Pipeline in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Indexing",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Documents",
+      "A legacy implementation of Documents in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "An alternative syntax ignoring Sharding principles",
+      "A standard exception thrown by Sharding",
+      "A third-party module replacing native Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A third-party module replacing native Replica Sets",
+      "A deprecated feature removed in recent MongoDB versions",
+      "An alternative syntax ignoring Replica Sets principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A legacy implementation of Aggregation Pipeline in MongoDB",
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Indexing",
+      "An alternative syntax ignoring Indexing principles",
+      "A legacy implementation of Indexing in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A standard exception thrown by Documents",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A standard exception thrown by Sharding",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A third-party module replacing native Sharding",
+      "An alternative syntax ignoring Sharding principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A legacy implementation of Replica Sets in MongoDB",
+      "A standard exception thrown by Replica Sets",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A third-party module replacing native Aggregation Pipeline",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A standard exception thrown by Indexing",
+      "An alternative syntax ignoring Indexing principles",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A standard exception thrown by Documents",
+      "A third-party module replacing native Documents",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "An alternative syntax ignoring Documents principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Sharding",
+      "An alternative syntax ignoring Sharding principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Replica Sets principles",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A standard exception thrown by Replica Sets"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A legacy implementation of Aggregation Pipeline in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Indexing",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "An alternative syntax ignoring Documents principles",
+      "A third-party module replacing native Documents",
+      "An unoptimized O(n^2) approach to Documents"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Sharding",
+      "A third-party module replacing native Sharding",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A third-party module replacing native Replica Sets"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A standard exception thrown by Aggregation Pipeline",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A legacy implementation of Aggregation Pipeline in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A deprecated feature removed in recent MongoDB versions",
+      "A third-party module replacing native Indexing",
+      "A synchronous blocking operation in MongoDB",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "An alternative syntax ignoring Documents principles",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A standard exception thrown by Sharding",
+      "An alternative syntax ignoring Sharding principles",
+      "An unoptimized O(n^2) approach to Sharding",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A legacy implementation of Replica Sets in MongoDB",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "An unoptimized O(n^2) approach to Replica Sets"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "A third-party module replacing native Aggregation Pipeline",
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A legacy implementation of Aggregation Pipeline in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "An unoptimized O(n^2) approach to Indexing"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Documents principles",
+      "A standard exception thrown by Documents",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Documents"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A standard exception thrown by Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "A standard exception thrown by Replica Sets",
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB",
+      "A legacy implementation of Replica Sets in MongoDB"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Aggregation Pipeline principles",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A standard exception thrown by Aggregation Pipeline"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "A synchronous blocking operation in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A standard exception thrown by Indexing",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "A legacy implementation of Documents in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A synchronous blocking operation in MongoDB"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+      "A third-party module replacing native Sharding",
+      "An alternative syntax ignoring Sharding principles",
+      "An unoptimized O(n^2) approach to Sharding"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "A deprecated feature removed in recent MongoDB versions",
+      "A third-party module replacing native Replica Sets"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Aggregation Pipeline",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Aggregation Pipeline in MongoDB?",
+    "options": [
+      "An unoptimized O(n^2) approach to Aggregation Pipeline",
+      "A legacy implementation of Aggregation Pipeline in MongoDB",
+      "A deprecated feature removed in recent MongoDB versions",
+      "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Aggregation Pipeline within the MongoDB ecosystem.",
+    "explanation": "Understanding Aggregation Pipeline is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "A legacy implementation of Indexing in MongoDB",
+      "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the MongoDB ecosystem.",
+    "explanation": "Understanding Indexing is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Documents",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Documents in MongoDB?",
+    "options": [
+      "An alternative syntax ignoring Documents principles",
+      "A standard exception thrown by Documents",
+      "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+      "A deprecated feature removed in recent MongoDB versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Documents within the MongoDB ecosystem.",
+    "explanation": "Understanding Documents is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Sharding",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Sharding in MongoDB?",
+    "options": [
+      "A legacy implementation of Sharding in MongoDB",
+      "A third-party module replacing native Sharding",
+      "An alternative syntax ignoring Sharding principles",
+      "It manages the core execution and optimization of Sharding within the MongoDB ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Sharding within the MongoDB ecosystem.",
+    "explanation": "Understanding Sharding is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "mongodb",
+    "topic": "Replica Sets",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Replica Sets in MongoDB?",
+    "options": [
+      "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+      "An unoptimized O(n^2) approach to Replica Sets",
+      "A synchronous blocking operation in MongoDB",
+      "A legacy implementation of Replica Sets in MongoDB"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Replica Sets within the MongoDB ecosystem.",
+    "explanation": "Understanding Replica Sets is critical in MongoDB. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

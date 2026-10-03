@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "A deprecated feature removed in recent Node.js versions",
+      "A third-party module replacing native Event Emitter"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "A deprecated feature removed in recent Node.js versions",
+      "An unoptimized O(n^2) approach to Streams"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An alternative syntax ignoring Buffer principles",
+      "A standard exception thrown by Buffer",
+      "An unoptimized O(n^2) approach to Buffer"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A legacy implementation of Async/Await in Node.js",
+      "An alternative syntax ignoring Async/Await principles",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A third-party module replacing native Async/Await"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A third-party module replacing native Middleware",
+      "A deprecated feature removed in recent Node.js versions",
+      "An alternative syntax ignoring Middleware principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A legacy implementation of Event Emitter in Node.js",
+      "An alternative syntax ignoring Event Emitter principles",
+      "A standard exception thrown by Event Emitter",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A standard exception thrown by Streams",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "An alternative syntax ignoring Streams principles",
+      "A legacy implementation of Streams in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An alternative syntax ignoring Buffer principles",
+      "A third-party module replacing native Buffer",
+      "A standard exception thrown by Buffer"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "An alternative syntax ignoring Async/Await principles",
+      "A third-party module replacing native Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A legacy implementation of Middleware in Node.js",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A third-party module replacing native Middleware"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A standard exception thrown by Event Emitter"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "A standard exception thrown by Streams",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Streams"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A third-party module replacing native Buffer",
+      "A standard exception thrown by Buffer",
+      "An alternative syntax ignoring Buffer principles",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A standard exception thrown by Async/Await",
+      "An unoptimized O(n^2) approach to Async/Await",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A third-party module replacing native Middleware",
+      "An unoptimized O(n^2) approach to Middleware",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A legacy implementation of Event Emitter in Node.js",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "An unoptimized O(n^2) approach to Event Emitter"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A standard exception thrown by Streams",
+      "A legacy implementation of Streams in Node.js",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "An unoptimized O(n^2) approach to Buffer",
+      "A legacy implementation of Buffer in Node.js",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A third-party module replacing native Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A legacy implementation of Async/Await in Node.js",
+      "An alternative syntax ignoring Async/Await principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A standard exception thrown by Middleware",
+      "An alternative syntax ignoring Middleware principles",
+      "A third-party module replacing native Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Event Emitter principles",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A third-party module replacing native Event Emitter"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "A legacy implementation of Streams in Node.js",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A standard exception thrown by Buffer",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A legacy implementation of Buffer in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "An alternative syntax ignoring Async/Await principles",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Middleware principles",
+      "An unoptimized O(n^2) approach to Middleware",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "A synchronous blocking operation in Node.js",
+      "A standard exception thrown by Event Emitter",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Streams principles",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A legacy implementation of Streams in Node.js",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A legacy implementation of Buffer in Node.js",
+      "A third-party module replacing native Buffer"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A standard exception thrown by Async/Await",
+      "A third-party module replacing native Async/Await",
+      "A legacy implementation of Async/Await in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A standard exception thrown by Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Middleware",
+      "A legacy implementation of Middleware in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Event Emitter principles",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "A standard exception thrown by Event Emitter"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A standard exception thrown by Streams",
+      "An unoptimized O(n^2) approach to Streams",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Buffer",
+      "A standard exception thrown by Buffer",
+      "A legacy implementation of Buffer in Node.js",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "A standard exception thrown by Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A third-party module replacing native Async/Await"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A third-party module replacing native Middleware",
+      "A standard exception thrown by Middleware",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "An alternative syntax ignoring Event Emitter principles",
+      "A third-party module replacing native Event Emitter",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A legacy implementation of Streams in Node.js",
+      "A deprecated feature removed in recent Node.js versions",
+      "A standard exception thrown by Streams"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A standard exception thrown by Buffer",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An alternative syntax ignoring Buffer principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "A synchronous blocking operation in Node.js",
+      "A standard exception thrown by Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A third-party module replacing native Event Emitter"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A third-party module replacing native Streams",
+      "A synchronous blocking operation in Node.js",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A legacy implementation of Buffer in Node.js",
+      "An alternative syntax ignoring Buffer principles",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A standard exception thrown by Async/Await",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Middleware",
+      "A legacy implementation of Middleware in Node.js",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A third-party module replacing native Event Emitter",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "An alternative syntax ignoring Event Emitter principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A legacy implementation of Streams in Node.js",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "An alternative syntax ignoring Streams principles",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "An alternative syntax ignoring Buffer principles",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Middleware principles",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions",
+      "A third-party module replacing native Middleware"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Event Emitter principles",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A standard exception thrown by Event Emitter"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A third-party module replacing native Streams",
+      "An alternative syntax ignoring Streams principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Buffer principles",
+      "An unoptimized O(n^2) approach to Buffer",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "An alternative syntax ignoring Async/Await principles",
+      "An unoptimized O(n^2) approach to Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Middleware",
+      "A standard exception thrown by Middleware"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "An alternative syntax ignoring Event Emitter principles",
+      "A legacy implementation of Event Emitter in Node.js",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions",
+      "A legacy implementation of Streams in Node.js",
+      "A standard exception thrown by Streams"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A standard exception thrown by Buffer",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Buffer"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A legacy implementation of Async/Await in Node.js",
+      "A synchronous blocking operation in Node.js",
+      "An unoptimized O(n^2) approach to Async/Await"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A third-party module replacing native Middleware",
+      "A standard exception thrown by Middleware",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "A standard exception thrown by Event Emitter",
+      "A legacy implementation of Event Emitter in Node.js",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "A legacy implementation of Streams in Node.js",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "A legacy implementation of Buffer in Node.js",
+      "An unoptimized O(n^2) approach to Buffer",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A legacy implementation of Async/Await in Node.js",
+      "An alternative syntax ignoring Async/Await principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Middleware",
+      "A deprecated feature removed in recent Node.js versions",
+      "A legacy implementation of Middleware in Node.js",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A legacy implementation of Event Emitter in Node.js",
+      "A synchronous blocking operation in Node.js",
+      "An alternative syntax ignoring Event Emitter principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A third-party module replacing native Streams",
+      "A synchronous blocking operation in Node.js",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Buffer",
+      "An alternative syntax ignoring Buffer principles",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "An alternative syntax ignoring Async/Await principles",
+      "A legacy implementation of Async/Await in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A standard exception thrown by Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A third-party module replacing native Middleware",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "A third-party module replacing native Event Emitter",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Streams",
+      "A third-party module replacing native Streams",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A standard exception thrown by Buffer",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An alternative syntax ignoring Buffer principles",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions",
+      "An unoptimized O(n^2) approach to Async/Await",
+      "An alternative syntax ignoring Async/Await principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Middleware",
+      "An alternative syntax ignoring Middleware principles",
+      "A third-party module replacing native Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A legacy implementation of Event Emitter in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A third-party module replacing native Streams",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Streams",
+      "An alternative syntax ignoring Streams principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "A legacy implementation of Buffer in Node.js",
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An unoptimized O(n^2) approach to Buffer",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A standard exception thrown by Async/Await",
+      "A deprecated feature removed in recent Node.js versions",
+      "A third-party module replacing native Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A third-party module replacing native Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "An unoptimized O(n^2) approach to Middleware"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A legacy implementation of Event Emitter in Node.js",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Streams",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "A standard exception thrown by Streams"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "An alternative syntax ignoring Buffer principles",
+      "A third-party module replacing native Buffer",
+      "A legacy implementation of Buffer in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "An unoptimized O(n^2) approach to Async/Await",
+      "A standard exception thrown by Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "An alternative syntax ignoring Async/Await principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A standard exception thrown by Middleware",
+      "A deprecated feature removed in recent Node.js versions",
+      "A legacy implementation of Middleware in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A legacy implementation of Event Emitter in Node.js",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "An alternative syntax ignoring Event Emitter principles",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A standard exception thrown by Streams",
+      "An alternative syntax ignoring Streams principles",
+      "A legacy implementation of Streams in Node.js",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A legacy implementation of Buffer in Node.js",
+      "A synchronous blocking operation in Node.js",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A synchronous blocking operation in Node.js",
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A standard exception thrown by Async/Await"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "A legacy implementation of Middleware in Node.js",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Event Emitter principles",
+      "An unoptimized O(n^2) approach to Event Emitter",
+      "A third-party module replacing native Event Emitter",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "A standard exception thrown by Streams",
+      "A legacy implementation of Streams in Node.js",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A deprecated feature removed in recent Node.js versions",
+      "A third-party module replacing native Buffer",
+      "A synchronous blocking operation in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "An unoptimized O(n^2) approach to Async/Await",
+      "A deprecated feature removed in recent Node.js versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Middleware principles",
+      "A deprecated feature removed in recent Node.js versions",
+      "A third-party module replacing native Middleware",
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Event Emitter",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Emitter in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+      "A standard exception thrown by Event Emitter",
+      "An alternative syntax ignoring Event Emitter principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Emitter within the Node.js ecosystem.",
+    "explanation": "Understanding Event Emitter is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Node.js?",
+    "options": [
+      "An alternative syntax ignoring Streams principles",
+      "A legacy implementation of Streams in Node.js",
+      "A standard exception thrown by Streams",
+      "It manages the core execution and optimization of Streams within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Node.js ecosystem.",
+    "explanation": "Understanding Streams is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Buffer",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Buffer in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+      "A legacy implementation of Buffer in Node.js",
+      "A standard exception thrown by Buffer",
+      "An alternative syntax ignoring Buffer principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Buffer within the Node.js ecosystem.",
+    "explanation": "Understanding Buffer is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Async/Await",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Async/Await in Node.js?",
+    "options": [
+      "A deprecated feature removed in recent Node.js versions",
+      "An unoptimized O(n^2) approach to Async/Await",
+      "A third-party module replacing native Async/Await",
+      "It manages the core execution and optimization of Async/Await within the Node.js ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Async/Await within the Node.js ecosystem.",
+    "explanation": "Understanding Async/Await is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "node.js",
+    "topic": "Middleware",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Middleware in Node.js?",
+    "options": [
+      "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+      "A synchronous blocking operation in Node.js",
+      "A standard exception thrown by Middleware",
+      "A legacy implementation of Middleware in Node.js"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Middleware within the Node.js ecosystem.",
+    "explanation": "Understanding Middleware is critical in Node.js. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

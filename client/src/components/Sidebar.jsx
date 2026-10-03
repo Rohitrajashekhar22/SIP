@@ -29,15 +29,15 @@ function Sidebar() {
           to="/aptitude-quiz"
         
         >
-          Aptitude Quiz
+           Quiz
         </NavLink>
         <br />
 
         <NavLink
-          to="/mock-tests"
+          to="/coding-contests"
         
         >
-          Mock Tests
+          Coding Contests
         </NavLink>
         <br />
 

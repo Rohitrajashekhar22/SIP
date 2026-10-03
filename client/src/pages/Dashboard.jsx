@@ -17,7 +17,7 @@ function Dashboard() {
       improvement: "+5% improvement",
     },
     {
-      title: "Mock Tests",
+      title: "Coding Contests",
       value: "24",
       improvement: "3 this month",
     },
@@ -34,7 +34,7 @@ function Dashboard() {
       {/* Header */}
       <div>
         <h1 className="text-3xl font-bold text-gray-900">
-          Welcome back, Alex!
+          Howdie, Rohit!
         </h1>
 
         <p className="mt-2 text-gray-500">

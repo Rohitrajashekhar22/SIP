@@ -21,24 +21,16 @@ const LANGUAGE_IDS = {
 };
 
 function MonacoEditor({ problem, onSolved }) {
-
     const starterCode = problem?.starterCode;
     const problemSlug = problem?.slug;
-
     const [language, setLanguage] = useState("java");
-
     const [code, setCode] = useState(() => {
         return getSubmittedCode(problemSlug, "java") || starterCode?.java || "";
     });
-
     const [isRunning, setIsRunning] = useState(false);
-
     const [statusMessage, setStatusMessage] = useState("Output will appear here...");
-
     const [testResults, setTestResults] = useState([]);
-
     const outputRef = useRef(null);
-
     const allVisibleTests = useMemo(
         () => problem?.visibleTestCases || [],
         [problem]
@@ -104,7 +96,6 @@ function MonacoEditor({ problem, onSolved }) {
                 });
             } catch (error) {
                 const failureMessage = error.response?.data?.error || error.message || "Execution failed";
-
                 results.push({
                     label: mode === "submit" && testCase.hidden ? `Hidden Test ${index + 1}` : `Test ${index + 1}`,
                     input: testCase.hidden ? "Hidden" : testCase.input,
@@ -123,16 +114,13 @@ function MonacoEditor({ problem, onSolved }) {
 
         return results;
     };
-
     // RUN BUTTON
     const handleRun = async () => {
         await evaluateTestCases(allVisibleTests, "run");
     };
-
     // SUBMIT BUTTON
     const handleSubmit = async () => {
         saveSubmittedCode(problemSlug, language, code);
-
         const submitTests = [
             ...allVisibleTests.map((testCase) => ({
                 ...testCase,
@@ -143,7 +131,6 @@ function MonacoEditor({ problem, onSolved }) {
                 hidden: true,
             })),
         ];
-
         const results = await evaluateTestCases(submitTests, "submit");
 
         if (problem?.slug && results?.length > 0 && results.every((result) => result.passed)) {
@@ -196,7 +183,6 @@ function MonacoEditor({ problem, onSolved }) {
                     outline-none
                     "
                 >
-
                     <option value="java">
                         Java
                     </option>
@@ -212,7 +198,6 @@ function MonacoEditor({ problem, onSolved }) {
                     <option value="cpp">
                         C++
                     </option>
-
                     <option value="c">
                         C
                     </option>
@@ -292,7 +277,6 @@ function MonacoEditor({ problem, onSolved }) {
 
             {/* CONSOLE */}
             <div className="border-t border-[#2d2d2d] bg-[#0f1115]">
-
                 <div className="flex items-center justify-between px-4 py-2 border-b border-[#22262f] bg-[#11141a]">
                     <div className="flex items-center gap-2">
                         <span className="h-2 w-2 rounded-full bg-emerald-400" />

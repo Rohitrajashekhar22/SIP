@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A standard exception thrown by Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A legacy implementation of Performance Optimization in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Security",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Core Architecture",
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A standard exception thrown by Syntax & Semantics",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A third-party module replacing native Performance Optimization",
+      "A legacy implementation of Performance Optimization in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Security",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A standard exception thrown by Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A legacy implementation of Deployment in Kubernetes",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Deployment",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Core Architecture",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Core Architecture principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A legacy implementation of Performance Optimization in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Security",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A third-party module replacing native Core Architecture",
+      "A legacy implementation of Core Architecture in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Syntax & Semantics",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "An alternative syntax ignoring Performance Optimization principles",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A third-party module replacing native Security",
+      "A legacy implementation of Security in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A third-party module replacing native Syntax & Semantics",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "A legacy implementation of Syntax & Semantics in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Security principles",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "An alternative syntax ignoring Deployment principles",
+      "An unoptimized O(n^2) approach to Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in Kubernetes",
+      "A standard exception thrown by Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Security principles",
+      "A standard exception thrown by Security",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A standard exception thrown by Deployment",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A legacy implementation of Core Architecture in Kubernetes",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A standard exception thrown by Performance Optimization",
+      "An unoptimized O(n^2) approach to Performance Optimization"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "An alternative syntax ignoring Security principles",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A legacy implementation of Deployment in Kubernetes",
+      "A third-party module replacing native Deployment",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "A third-party module replacing native Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A legacy implementation of Core Architecture in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "A synchronous blocking operation in Kubernetes",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A third-party module replacing native Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Security",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Security in Kubernetes",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Deployment principles",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A standard exception thrown by Deployment"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A legacy implementation of Core Architecture in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in Kubernetes",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A third-party module replacing native Syntax & Semantics",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A third-party module replacing native Security",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A legacy implementation of Deployment in Kubernetes",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A legacy implementation of Performance Optimization in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Security",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A legacy implementation of Deployment in Kubernetes",
+      "An unoptimized O(n^2) approach to Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Core Architecture in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Security principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "An alternative syntax ignoring Deployment principles",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A third-party module replacing native Syntax & Semantics",
+      "A standard exception thrown by Syntax & Semantics",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A legacy implementation of Performance Optimization in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Security",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "An unoptimized O(n^2) approach to Deployment",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Core Architecture",
+      "A legacy implementation of Core Architecture in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Syntax & Semantics",
+      "A third-party module replacing native Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Security in Kubernetes",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "An unoptimized O(n^2) approach to Deployment",
+      "A standard exception thrown by Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A legacy implementation of Core Architecture in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in Kubernetes",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A third-party module replacing native Syntax & Semantics",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A standard exception thrown by Performance Optimization",
+      "A legacy implementation of Performance Optimization in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A standard exception thrown by Security",
+      "A legacy implementation of Security in Kubernetes",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "An unoptimized O(n^2) approach to Deployment",
+      "A standard exception thrown by Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A legacy implementation of Core Architecture in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A standard exception thrown by Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A synchronous blocking operation in Kubernetes",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Security principles",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "A legacy implementation of Deployment in Kubernetes",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A legacy implementation of Core Architecture in Kubernetes",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A standard exception thrown by Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A standard exception thrown by Syntax & Semantics",
+      "A legacy implementation of Syntax & Semantics in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A standard exception thrown by Security",
+      "A legacy implementation of Security in Kubernetes",
+      "A synchronous blocking operation in Kubernetes"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A standard exception thrown by Deployment",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A third-party module replacing native Core Architecture",
+      "An unoptimized O(n^2) approach to Core Architecture"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Performance Optimization in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A legacy implementation of Security in Kubernetes",
+      "A standard exception thrown by Security",
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "A legacy implementation of Deployment in Kubernetes",
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A legacy implementation of Core Architecture in Kubernetes",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A third-party module replacing native Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Security in Kubernetes"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Core Architecture",
+      "An alternative syntax ignoring Core Architecture principles",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A legacy implementation of Syntax & Semantics in Kubernetes",
+      "A synchronous blocking operation in Kubernetes",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "A synchronous blocking operation in Kubernetes",
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A legacy implementation of Security in Kubernetes",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "An alternative syntax ignoring Deployment principles",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+      "A legacy implementation of Deployment in Kubernetes"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+      "A third-party module replacing native Core Architecture",
+      "A synchronous blocking operation in Kubernetes",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the Kubernetes ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in Kubernetes?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in Kubernetes",
+      "A third-party module replacing native Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+      "A deprecated feature removed in recent Kubernetes versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the Kubernetes ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in Kubernetes?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Performance Optimization in Kubernetes",
+      "A third-party module replacing native Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the Kubernetes ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in Kubernetes?",
+    "options": [
+      "A legacy implementation of Security in Kubernetes",
+      "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+      "A third-party module replacing native Security",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the Kubernetes ecosystem.",
+    "explanation": "Understanding Security is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "kubernetes",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in Kubernetes?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "A synchronous blocking operation in Kubernetes",
+      "A legacy implementation of Deployment in Kubernetes",
+      "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the Kubernetes ecosystem.",
+    "explanation": "Understanding Deployment is critical in Kubernetes. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

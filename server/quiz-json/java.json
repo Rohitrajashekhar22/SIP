@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "An alternative syntax ignoring JVM principles",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A legacy implementation of JVM in Java",
+      "A third-party module replacing native JVM"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A standard exception thrown by Garbage Collection",
+      "A third-party module replacing native Garbage Collection",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A legacy implementation of Streams in Java",
+      "A standard exception thrown by Streams",
+      "An unoptimized O(n^2) approach to Streams"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A legacy implementation of Collections in Java",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Collections",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Multithreading",
+      "A legacy implementation of Multithreading in Java",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "An alternative syntax ignoring OOP principles",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "A legacy implementation of OOP in Java",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "An alternative syntax ignoring JVM principles",
+      "A standard exception thrown by JVM",
+      "A third-party module replacing native JVM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "A legacy implementation of Garbage Collection in Java",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A third-party module replacing native Garbage Collection"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A legacy implementation of Streams in Java",
+      "An alternative syntax ignoring Streams principles",
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Streams"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A third-party module replacing native Collections",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A legacy implementation of Collections in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "A legacy implementation of Multithreading in Java",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A synchronous blocking operation in Java",
+      "A standard exception thrown by Multithreading"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A third-party module replacing native OOP",
+      "An unoptimized O(n^2) approach to OOP",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of OOP within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring JVM principles",
+      "A standard exception thrown by JVM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A standard exception thrown by Garbage Collection",
+      "A legacy implementation of Garbage Collection in Java",
+      "An alternative syntax ignoring Garbage Collection principles",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "An alternative syntax ignoring Streams principles",
+      "A legacy implementation of Streams in Java",
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "A third-party module replacing native Collections",
+      "An alternative syntax ignoring Collections principles",
+      "It manages the core execution and optimization of Collections within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Multithreading",
+      "A third-party module replacing native Multithreading",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A standard exception thrown by Multithreading"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A third-party module replacing native OOP",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "A standard exception thrown by OOP",
+      "An alternative syntax ignoring OOP principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A legacy implementation of JVM in Java",
+      "A standard exception thrown by JVM",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A legacy implementation of Garbage Collection in Java",
+      "An unoptimized O(n^2) approach to Garbage Collection",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A third-party module replacing native Streams",
+      "An unoptimized O(n^2) approach to Streams",
+      "A standard exception thrown by Streams",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "An unoptimized O(n^2) approach to Collections",
+      "A legacy implementation of Collections in Java",
+      "It manages the core execution and optimization of Collections within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A synchronous blocking operation in Java",
+      "An unoptimized O(n^2) approach to Multithreading"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "An alternative syntax ignoring OOP principles",
+      "An unoptimized O(n^2) approach to OOP",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of OOP within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A third-party module replacing native JVM",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A legacy implementation of JVM in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A third-party module replacing native Garbage Collection",
+      "An alternative syntax ignoring Garbage Collection principles",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Garbage Collection"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "An alternative syntax ignoring Streams principles",
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A third-party module replacing native Streams"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A third-party module replacing native Collections",
+      "A standard exception thrown by Collections"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring Multithreading principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring OOP principles",
+      "A standard exception thrown by OOP",
+      "It manages the core execution and optimization of OOP within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring JVM principles",
+      "A standard exception thrown by JVM",
+      "It manages the core execution and optimization of JVM within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "An alternative syntax ignoring Garbage Collection principles",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A synchronous blocking operation in Java",
+      "A third-party module replacing native Garbage Collection"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Streams",
+      "An alternative syntax ignoring Streams principles",
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A standard exception thrown by Collections",
+      "An alternative syntax ignoring Collections principles",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A legacy implementation of Collections in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "A third-party module replacing native Multithreading",
+      "An alternative syntax ignoring Multithreading principles",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A standard exception thrown by Multithreading"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A legacy implementation of OOP in Java",
+      "A third-party module replacing native OOP",
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of OOP within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to JVM",
+      "A standard exception thrown by JVM",
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of JVM within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A third-party module replacing native Garbage Collection",
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Garbage Collection"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Streams",
+      "An alternative syntax ignoring Streams principles",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A legacy implementation of Collections in Java",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Collections",
+      "An alternative syntax ignoring Collections principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "An alternative syntax ignoring Multithreading principles",
+      "A standard exception thrown by Multithreading",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "An alternative syntax ignoring OOP principles",
+      "A synchronous blocking operation in Java",
+      "A legacy implementation of OOP in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "A synchronous blocking operation in Java",
+      "A legacy implementation of JVM in Java",
+      "It manages the core execution and optimization of JVM within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A legacy implementation of Garbage Collection in Java",
+      "An alternative syntax ignoring Garbage Collection principles",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A standard exception thrown by Streams",
+      "A third-party module replacing native Streams",
+      "An alternative syntax ignoring Streams principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "A legacy implementation of Collections in Java",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A legacy implementation of Multithreading in Java",
+      "A deprecated feature removed in recent Java versions",
+      "A third-party module replacing native Multithreading"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring OOP principles",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring JVM principles",
+      "A third-party module replacing native JVM",
+      "It manages the core execution and optimization of JVM within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Garbage Collection",
+      "A third-party module replacing native Garbage Collection",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "A legacy implementation of Streams in Java",
+      "An unoptimized O(n^2) approach to Streams",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A legacy implementation of Collections in Java",
+      "A deprecated feature removed in recent Java versions",
+      "An unoptimized O(n^2) approach to Collections"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A legacy implementation of Multithreading in Java",
+      "An unoptimized O(n^2) approach to Multithreading",
+      "A third-party module replacing native Multithreading"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A legacy implementation of OOP in Java"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A legacy implementation of JVM in Java",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A synchronous blocking operation in Java",
+      "An unoptimized O(n^2) approach to JVM"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A legacy implementation of Garbage Collection in Java",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A third-party module replacing native Garbage Collection",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A third-party module replacing native Streams",
+      "A standard exception thrown by Streams",
+      "A legacy implementation of Streams in Java",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A legacy implementation of Collections in Java",
+      "An alternative syntax ignoring Collections principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "A third-party module replacing native Multithreading",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "An alternative syntax ignoring Multithreading principles",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to OOP",
+      "A deprecated feature removed in recent Java versions",
+      "A legacy implementation of OOP in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A third-party module replacing native JVM",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A standard exception thrown by JVM",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "An unoptimized O(n^2) approach to Garbage Collection",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A third-party module replacing native Garbage Collection"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A third-party module replacing native Streams",
+      "An unoptimized O(n^2) approach to Streams",
+      "A standard exception thrown by Streams"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "An alternative syntax ignoring Collections principles",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A standard exception thrown by Collections",
+      "A third-party module replacing native Collections"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "A third-party module replacing native Multithreading",
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring Multithreading principles",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A standard exception thrown by OOP",
+      "A third-party module replacing native OOP",
+      "A legacy implementation of OOP in Java",
+      "It manages the core execution and optimization of OOP within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A legacy implementation of JVM in Java",
+      "A standard exception thrown by JVM",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of JVM within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "An alternative syntax ignoring Garbage Collection principles",
+      "An unoptimized O(n^2) approach to Garbage Collection",
+      "A third-party module replacing native Garbage Collection",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A third-party module replacing native Streams",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "An alternative syntax ignoring Streams principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Collections",
+      "A legacy implementation of Collections in Java",
+      "A third-party module replacing native Collections",
+      "It manages the core execution and optimization of Collections within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A synchronous blocking operation in Java",
+      "A legacy implementation of Multithreading in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A synchronous blocking operation in Java",
+      "A third-party module replacing native OOP"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A third-party module replacing native JVM",
+      "A standard exception thrown by JVM",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A legacy implementation of Garbage Collection in Java",
+      "An unoptimized O(n^2) approach to Garbage Collection"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "An alternative syntax ignoring Streams principles",
+      "A legacy implementation of Streams in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A synchronous blocking operation in Java",
+      "An unoptimized O(n^2) approach to Collections"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Multithreading",
+      "A third-party module replacing native Multithreading",
+      "An alternative syntax ignoring Multithreading principles",
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A legacy implementation of OOP in Java",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "An alternative syntax ignoring OOP principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A third-party module replacing native JVM",
+      "An alternative syntax ignoring JVM principles",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A standard exception thrown by Garbage Collection",
+      "A legacy implementation of Garbage Collection in Java",
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A legacy implementation of Streams in Java",
+      "A standard exception thrown by Streams",
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "A standard exception thrown by Collections",
+      "An alternative syntax ignoring Collections principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A legacy implementation of Multithreading in Java",
+      "An alternative syntax ignoring Multithreading principles",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "A standard exception thrown by OOP",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A standard exception thrown by JVM",
+      "An alternative syntax ignoring JVM principles",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A third-party module replacing native JVM"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "An alternative syntax ignoring Garbage Collection principles",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A legacy implementation of Garbage Collection in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "An alternative syntax ignoring Streams principles",
+      "It manages the core execution and optimization of Streams within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "An unoptimized O(n^2) approach to Streams"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "An unoptimized O(n^2) approach to Collections",
+      "A standard exception thrown by Collections",
+      "It manages the core execution and optimization of Collections within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A deprecated feature removed in recent Java versions",
+      "A third-party module replacing native Multithreading",
+      "A legacy implementation of Multithreading in Java"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "A standard exception thrown by OOP",
+      "A legacy implementation of OOP in Java",
+      "An unoptimized O(n^2) approach to OOP"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of JVM within the Java ecosystem.",
+      "A legacy implementation of JVM in Java",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A standard exception thrown by Garbage Collection",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "An unoptimized O(n^2) approach to Streams",
+      "A standard exception thrown by Streams",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "A third-party module replacing native Collections",
+      "It manages the core execution and optimization of Collections within the Java ecosystem.",
+      "An alternative syntax ignoring Collections principles",
+      "An unoptimized O(n^2) approach to Collections"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Multithreading",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Multithreading in Java?",
+    "options": [
+      "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+      "A standard exception thrown by Multithreading",
+      "A synchronous blocking operation in Java",
+      "A deprecated feature removed in recent Java versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Multithreading within the Java ecosystem.",
+    "explanation": "Understanding Multithreading is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "OOP",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of OOP in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of OOP within the Java ecosystem.",
+      "An alternative syntax ignoring OOP principles",
+      "A synchronous blocking operation in Java"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of OOP within the Java ecosystem.",
+    "explanation": "Understanding OOP is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "JVM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of JVM in Java?",
+    "options": [
+      "A standard exception thrown by JVM",
+      "An alternative syntax ignoring JVM principles",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of JVM within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of JVM within the Java ecosystem.",
+    "explanation": "Understanding JVM is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Garbage Collection",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Garbage Collection in Java?",
+    "options": [
+      "A synchronous blocking operation in Java",
+      "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+      "An unoptimized O(n^2) approach to Garbage Collection",
+      "A third-party module replacing native Garbage Collection"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Garbage Collection within the Java ecosystem.",
+    "explanation": "Understanding Garbage Collection is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Streams",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Streams in Java?",
+    "options": [
+      "A deprecated feature removed in recent Java versions",
+      "A third-party module replacing native Streams",
+      "A standard exception thrown by Streams",
+      "It manages the core execution and optimization of Streams within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Streams within the Java ecosystem.",
+    "explanation": "Understanding Streams is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "java",
+    "topic": "Collections",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Collections in Java?",
+    "options": [
+      "An alternative syntax ignoring Collections principles",
+      "A third-party module replacing native Collections",
+      "A deprecated feature removed in recent Java versions",
+      "It manages the core execution and optimization of Collections within the Java ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Collections within the Java ecosystem.",
+    "explanation": "Understanding Collections is critical in Java. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

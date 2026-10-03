@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "A standard exception thrown by Hooks",
+      "A third-party module replacing native Hooks",
+      "It manages the core execution and optimization of Hooks within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A third-party module replacing native Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A synchronous blocking operation in React",
+      "A standard exception thrown by Virtual DOM"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "An alternative syntax ignoring State Management principles",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A third-party module replacing native State Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A legacy implementation of Component Lifecycle in React",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Component Lifecycle"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A standard exception thrown by Context API",
+      "A legacy implementation of Context API in React",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A legacy implementation of Hooks in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A standard exception thrown by Hooks",
+      "An alternative syntax ignoring Hooks principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A third-party module replacing native Virtual DOM",
+      "An unoptimized O(n^2) approach to Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A legacy implementation of Virtual DOM in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to State Management",
+      "A third-party module replacing native State Management",
+      "A standard exception thrown by State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A standard exception thrown by Component Lifecycle",
+      "An unoptimized O(n^2) approach to Component Lifecycle",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A legacy implementation of Context API in React",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "A synchronous blocking operation in React",
+      "A legacy implementation of Hooks in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A standard exception thrown by Virtual DOM",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "An alternative syntax ignoring Virtual DOM principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A third-party module replacing native State Management",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A legacy implementation of State Management in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Component Lifecycle",
+      "A third-party module replacing native Component Lifecycle",
+      "A standard exception thrown by Component Lifecycle"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Context API",
+      "A legacy implementation of Context API in React"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A legacy implementation of Hooks in React",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Hooks"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "A synchronous blocking operation in React",
+      "A third-party module replacing native Virtual DOM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A third-party module replacing native State Management",
+      "An unoptimized O(n^2) approach to State Management",
+      "A legacy implementation of State Management in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A standard exception thrown by Component Lifecycle",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "An alternative syntax ignoring Component Lifecycle principles",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A third-party module replacing native Context API",
+      "A standard exception thrown by Context API",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A third-party module replacing native Hooks",
+      "A legacy implementation of Hooks in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A standard exception thrown by Hooks"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A third-party module replacing native Virtual DOM",
+      "A legacy implementation of Virtual DOM in React",
+      "An unoptimized O(n^2) approach to Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A third-party module replacing native State Management",
+      "An alternative syntax ignoring State Management principles",
+      "A standard exception thrown by State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "An alternative syntax ignoring Component Lifecycle principles",
+      "A third-party module replacing native Component Lifecycle",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An alternative syntax ignoring Context API principles",
+      "An unoptimized O(n^2) approach to Context API",
+      "A legacy implementation of Context API in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A legacy implementation of Hooks in React",
+      "An alternative syntax ignoring Hooks principles",
+      "An unoptimized O(n^2) approach to Hooks",
+      "It manages the core execution and optimization of Hooks within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "An alternative syntax ignoring Virtual DOM principles",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An unoptimized O(n^2) approach to State Management",
+      "A synchronous blocking operation in React",
+      "A standard exception thrown by State Management"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A synchronous blocking operation in React",
+      "A standard exception thrown by Component Lifecycle",
+      "An alternative syntax ignoring Component Lifecycle principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A synchronous blocking operation in React",
+      "An unoptimized O(n^2) approach to Context API",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A third-party module replacing native Hooks",
+      "A standard exception thrown by Hooks",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A legacy implementation of Virtual DOM in React",
+      "A third-party module replacing native Virtual DOM",
+      "A standard exception thrown by Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to State Management",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A legacy implementation of Component Lifecycle in React",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A standard exception thrown by Context API",
+      "A deprecated feature removed in recent React versions",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Hooks",
+      "An alternative syntax ignoring Hooks principles",
+      "A standard exception thrown by Hooks"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "A standard exception thrown by Virtual DOM",
+      "A legacy implementation of Virtual DOM in React",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A legacy implementation of State Management in React",
+      "A third-party module replacing native State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A standard exception thrown by State Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A standard exception thrown by Component Lifecycle",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "A third-party module replacing native Component Lifecycle"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A legacy implementation of Context API in React",
+      "An alternative syntax ignoring Context API principles",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Hooks",
+      "A legacy implementation of Hooks in React",
+      "A third-party module replacing native Hooks"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "An alternative syntax ignoring Virtual DOM principles",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to State Management",
+      "A standard exception thrown by State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A standard exception thrown by Component Lifecycle",
+      "A third-party module replacing native Component Lifecycle",
+      "An unoptimized O(n^2) approach to Component Lifecycle"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A third-party module replacing native Context API",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An alternative syntax ignoring Context API principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A synchronous blocking operation in React",
+      "An unoptimized O(n^2) approach to Hooks",
+      "A standard exception thrown by Hooks"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "An alternative syntax ignoring Virtual DOM principles",
+      "A standard exception thrown by Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A third-party module replacing native Virtual DOM"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An unoptimized O(n^2) approach to State Management",
+      "A third-party module replacing native State Management"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A third-party module replacing native Component Lifecycle",
+      "An alternative syntax ignoring Component Lifecycle principles",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An alternative syntax ignoring Context API principles",
+      "A legacy implementation of Context API in React",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A third-party module replacing native Hooks",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "An alternative syntax ignoring Hooks principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "A third-party module replacing native Virtual DOM",
+      "An alternative syntax ignoring Virtual DOM principles",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An unoptimized O(n^2) approach to State Management",
+      "A standard exception thrown by State Management",
+      "An alternative syntax ignoring State Management principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "A legacy implementation of Component Lifecycle in React",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Context API",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A third-party module replacing native Hooks",
+      "An alternative syntax ignoring Hooks principles",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A third-party module replacing native Virtual DOM",
+      "A legacy implementation of Virtual DOM in React",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A third-party module replacing native State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A synchronous blocking operation in React",
+      "A legacy implementation of State Management in React"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A standard exception thrown by Component Lifecycle",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A third-party module replacing native Context API",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An alternative syntax ignoring Context API principles",
+      "A standard exception thrown by Context API"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A third-party module replacing native Hooks",
+      "A standard exception thrown by Hooks",
+      "A legacy implementation of Hooks in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A standard exception thrown by Virtual DOM",
+      "A legacy implementation of Virtual DOM in React",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A third-party module replacing native Virtual DOM"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A legacy implementation of State Management in React",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An unoptimized O(n^2) approach to State Management",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Component Lifecycle",
+      "A synchronous blocking operation in React",
+      "A standard exception thrown by Component Lifecycle"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Context API",
+      "An alternative syntax ignoring Context API principles",
+      "A legacy implementation of Context API in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "A synchronous blocking operation in React",
+      "A legacy implementation of Hooks in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A legacy implementation of Virtual DOM in React",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A third-party module replacing native Virtual DOM"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "An alternative syntax ignoring State Management principles",
+      "An unoptimized O(n^2) approach to State Management",
+      "A standard exception thrown by State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "A legacy implementation of Component Lifecycle in React",
+      "A third-party module replacing native Component Lifecycle",
+      "An alternative syntax ignoring Component Lifecycle principles",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "An alternative syntax ignoring Context API principles",
+      "An unoptimized O(n^2) approach to Context API",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A standard exception thrown by Hooks",
+      "A third-party module replacing native Hooks",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Hooks within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A third-party module replacing native Virtual DOM",
+      "A synchronous blocking operation in React",
+      "A legacy implementation of Virtual DOM in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "An alternative syntax ignoring State Management principles",
+      "A third-party module replacing native State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to Component Lifecycle",
+      "A legacy implementation of Component Lifecycle in React",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "An alternative syntax ignoring Context API principles",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A standard exception thrown by Context API"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A legacy implementation of Hooks in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Hooks",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "A legacy implementation of Virtual DOM in React",
+      "A third-party module replacing native Virtual DOM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "An unoptimized O(n^2) approach to State Management",
+      "An alternative syntax ignoring State Management principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A legacy implementation of Component Lifecycle in React",
+      "A synchronous blocking operation in React",
+      "A third-party module replacing native Component Lifecycle"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A legacy implementation of Context API in React",
+      "A third-party module replacing native Context API",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A standard exception thrown by Hooks",
+      "An unoptimized O(n^2) approach to Hooks"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A third-party module replacing native Virtual DOM",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An alternative syntax ignoring State Management principles",
+      "A third-party module replacing native State Management",
+      "A deprecated feature removed in recent React versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "An alternative syntax ignoring Component Lifecycle principles",
+      "A third-party module replacing native Component Lifecycle",
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to Context API",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An alternative syntax ignoring Context API principles",
+      "A synchronous blocking operation in React"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A third-party module replacing native Hooks",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A legacy implementation of Hooks in React",
+      "An alternative syntax ignoring Hooks principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to Virtual DOM",
+      "A synchronous blocking operation in React",
+      "A legacy implementation of Virtual DOM in React",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "A third-party module replacing native State Management",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "A standard exception thrown by State Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A third-party module replacing native Component Lifecycle",
+      "A legacy implementation of Component Lifecycle in React",
+      "A standard exception thrown by Component Lifecycle"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "A standard exception thrown by Context API",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An unoptimized O(n^2) approach to Context API"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A third-party module replacing native Hooks",
+      "An unoptimized O(n^2) approach to Hooks"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "A synchronous blocking operation in React",
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "A standard exception thrown by Virtual DOM"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A third-party module replacing native State Management",
+      "A deprecated feature removed in recent React versions",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An unoptimized O(n^2) approach to State Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+      "A third-party module replacing native Component Lifecycle",
+      "A deprecated feature removed in recent React versions",
+      "An unoptimized O(n^2) approach to Component Lifecycle"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "An unoptimized O(n^2) approach to Context API",
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "A legacy implementation of Context API in React"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Hooks",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Hooks in React?",
+    "options": [
+      "It manages the core execution and optimization of Hooks within the React ecosystem.",
+      "A deprecated feature removed in recent React versions",
+      "A third-party module replacing native Hooks",
+      "An alternative syntax ignoring Hooks principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Hooks within the React ecosystem.",
+    "explanation": "Understanding Hooks is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Virtual DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Virtual DOM in React?",
+    "options": [
+      "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+      "A synchronous blocking operation in React",
+      "A deprecated feature removed in recent React versions",
+      "A legacy implementation of Virtual DOM in React"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Virtual DOM within the React ecosystem.",
+    "explanation": "Understanding Virtual DOM is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "State Management",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of State Management in React?",
+    "options": [
+      "A deprecated feature removed in recent React versions",
+      "An alternative syntax ignoring State Management principles",
+      "It manages the core execution and optimization of State Management within the React ecosystem.",
+      "An unoptimized O(n^2) approach to State Management"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of State Management within the React ecosystem.",
+    "explanation": "Understanding State Management is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Component Lifecycle",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Component Lifecycle in React?",
+    "options": [
+      "An unoptimized O(n^2) approach to Component Lifecycle",
+      "A standard exception thrown by Component Lifecycle",
+      "A legacy implementation of Component Lifecycle in React",
+      "It manages the core execution and optimization of Component Lifecycle within the React ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Component Lifecycle within the React ecosystem.",
+    "explanation": "Understanding Component Lifecycle is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "react",
+    "topic": "Context API",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Context API in React?",
+    "options": [
+      "It manages the core execution and optimization of Context API within the React ecosystem.",
+      "An alternative syntax ignoring Context API principles",
+      "An unoptimized O(n^2) approach to Context API",
+      "A third-party module replacing native Context API"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Context API within the React ecosystem.",
+    "explanation": "Understanding Context API is critical in React. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

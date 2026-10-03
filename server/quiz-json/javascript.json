@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Closures principles",
+      "A third-party module replacing native Closures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "A third-party module replacing native Event Loop",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A standard exception thrown by Event Loop"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A third-party module replacing native Promises",
+      "A standard exception thrown by Promises",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to DOM",
+      "A legacy implementation of DOM in JavaScript",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A standard exception thrown by DOM"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A standard exception thrown by ES6+",
+      "A synchronous blocking operation in JavaScript",
+      "An unoptimized O(n^2) approach to ES6+",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An unoptimized O(n^2) approach to Prototypal Inheritance",
+      "An alternative syntax ignoring Prototypal Inheritance principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A standard exception thrown by Closures",
+      "An alternative syntax ignoring Closures principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Loop",
+      "An alternative syntax ignoring Event Loop principles",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A third-party module replacing native Event Loop"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to Promises",
+      "A third-party module replacing native Promises",
+      "A legacy implementation of Promises in JavaScript"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "An alternative syntax ignoring DOM principles",
+      "A legacy implementation of DOM in JavaScript"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A legacy implementation of ES6+ in JavaScript",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A third-party module replacing native ES6+",
+      "An unoptimized O(n^2) approach to ES6+"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Prototypal Inheritance",
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A legacy implementation of Prototypal Inheritance in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A legacy implementation of Closures in JavaScript",
+      "A third-party module replacing native Closures",
+      "An unoptimized O(n^2) approach to Closures",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Event Loop principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A third-party module replacing native Promises",
+      "A synchronous blocking operation in JavaScript",
+      "An alternative syntax ignoring Promises principles",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A legacy implementation of DOM in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring DOM principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring ES6+ principles",
+      "A legacy implementation of ES6+ in JavaScript",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A third-party module replacing native Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A legacy implementation of Prototypal Inheritance in JavaScript",
+      "An alternative syntax ignoring Prototypal Inheritance principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring Closures principles",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A standard exception thrown by Closures",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "A legacy implementation of Event Loop in JavaScript",
+      "A third-party module replacing native Event Loop",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Promises",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A third-party module replacing native Promises",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring DOM principles",
+      "An unoptimized O(n^2) approach to DOM",
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A third-party module replacing native ES6+",
+      "An unoptimized O(n^2) approach to ES6+",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A legacy implementation of ES6+ in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Prototypal Inheritance principles",
+      "A legacy implementation of Prototypal Inheritance in JavaScript",
+      "A third-party module replacing native Prototypal Inheritance"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Closures principles",
+      "An unoptimized O(n^2) approach to Closures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Event Loop principles",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "A legacy implementation of Promises in JavaScript",
+      "A standard exception thrown by Promises",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring DOM principles",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript",
+      "A standard exception thrown by DOM"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A third-party module replacing native ES6+",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A legacy implementation of ES6+ in JavaScript",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Prototypal Inheritance principles",
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A third-party module replacing native Closures",
+      "A synchronous blocking operation in JavaScript",
+      "A legacy implementation of Closures in JavaScript",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Loop",
+      "A third-party module replacing native Event Loop",
+      "A standard exception thrown by Event Loop",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Promises principles",
+      "A legacy implementation of Promises in JavaScript",
+      "A third-party module replacing native Promises"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A third-party module replacing native DOM",
+      "A synchronous blocking operation in JavaScript",
+      "A standard exception thrown by DOM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A third-party module replacing native ES6+",
+      "A legacy implementation of ES6+ in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring Prototypal Inheritance principles",
+      "A third-party module replacing native Prototypal Inheritance",
+      "A legacy implementation of Prototypal Inheritance in JavaScript",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A legacy implementation of Closures in JavaScript",
+      "An alternative syntax ignoring Closures principles",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A third-party module replacing native Event Loop",
+      "An unoptimized O(n^2) approach to Event Loop",
+      "A legacy implementation of Event Loop in JavaScript",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "An alternative syntax ignoring Promises principles",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A legacy implementation of Promises in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript",
+      "A legacy implementation of DOM in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A legacy implementation of ES6+ in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Prototypal Inheritance principles",
+      "A third-party module replacing native Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A legacy implementation of Closures in JavaScript",
+      "An unoptimized O(n^2) approach to Closures",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A third-party module replacing native Closures"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to Event Loop",
+      "An alternative syntax ignoring Event Loop principles",
+      "A legacy implementation of Event Loop in JavaScript"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Promises principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A third-party module replacing native DOM",
+      "A legacy implementation of DOM in JavaScript",
+      "An unoptimized O(n^2) approach to DOM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A standard exception thrown by ES6+",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A legacy implementation of ES6+ in JavaScript",
+      "A third-party module replacing native ES6+"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A third-party module replacing native Prototypal Inheritance",
+      "An unoptimized O(n^2) approach to Prototypal Inheritance"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "A standard exception thrown by Closures",
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Loop",
+      "A standard exception thrown by Event Loop",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A third-party module replacing native Event Loop"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A standard exception thrown by Promises",
+      "A third-party module replacing native Promises",
+      "An alternative syntax ignoring Promises principles",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A legacy implementation of DOM in JavaScript",
+      "A third-party module replacing native DOM",
+      "An unoptimized O(n^2) approach to DOM"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring ES6+ principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A standard exception thrown by Prototypal Inheritance",
+      "A third-party module replacing native Prototypal Inheritance",
+      "An alternative syntax ignoring Prototypal Inheritance principles",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Closures principles",
+      "A standard exception thrown by Closures",
+      "A third-party module replacing native Closures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A legacy implementation of Event Loop in JavaScript",
+      "A third-party module replacing native Event Loop",
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring Promises principles",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to Promises",
+      "A third-party module replacing native Promises"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring DOM principles",
+      "A legacy implementation of DOM in JavaScript",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A third-party module replacing native ES6+",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A legacy implementation of ES6+ in JavaScript"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A third-party module replacing native Prototypal Inheritance",
+      "A standard exception thrown by Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A third-party module replacing native Closures",
+      "An unoptimized O(n^2) approach to Closures",
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Loop",
+      "An alternative syntax ignoring Event Loop principles",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A standard exception thrown by Event Loop"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A standard exception thrown by Promises",
+      "A third-party module replacing native Promises",
+      "A legacy implementation of Promises in JavaScript",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to DOM",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A standard exception thrown by DOM",
+      "A third-party module replacing native DOM"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A legacy implementation of ES6+ in JavaScript",
+      "An alternative syntax ignoring ES6+ principles",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A third-party module replacing native Prototypal Inheritance",
+      "A standard exception thrown by Prototypal Inheritance"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A legacy implementation of Closures in JavaScript",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to Closures",
+      "A third-party module replacing native Closures"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A standard exception thrown by Event Loop",
+      "An unoptimized O(n^2) approach to Event Loop",
+      "An alternative syntax ignoring Event Loop principles",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A legacy implementation of Promises in JavaScript",
+      "A third-party module replacing native Promises",
+      "An alternative syntax ignoring Promises principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "An unoptimized O(n^2) approach to DOM",
+      "An alternative syntax ignoring DOM principles",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A third-party module replacing native ES6+",
+      "An alternative syntax ignoring ES6+ principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A third-party module replacing native Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A synchronous blocking operation in JavaScript"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A legacy implementation of Closures in JavaScript",
+      "A standard exception thrown by Closures",
+      "An alternative syntax ignoring Closures principles",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A standard exception thrown by Event Loop",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Event Loop principles",
+      "A legacy implementation of Event Loop in JavaScript"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "An unoptimized O(n^2) approach to Promises",
+      "An alternative syntax ignoring Promises principles",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "A legacy implementation of DOM in JavaScript",
+      "An unoptimized O(n^2) approach to DOM",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "A legacy implementation of ES6+ in JavaScript",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to ES6+",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "An unoptimized O(n^2) approach to Prototypal Inheritance",
+      "A standard exception thrown by Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A legacy implementation of Closures in JavaScript",
+      "A standard exception thrown by Closures",
+      "An unoptimized O(n^2) approach to Closures"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A legacy implementation of Event Loop in JavaScript"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A third-party module replacing native Promises",
+      "An unoptimized O(n^2) approach to Promises"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "A standard exception thrown by DOM",
+      "An alternative syntax ignoring DOM principles",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to ES6+",
+      "A third-party module replacing native ES6+",
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A legacy implementation of ES6+ in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A standard exception thrown by Prototypal Inheritance",
+      "A third-party module replacing native Prototypal Inheritance",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A legacy implementation of Prototypal Inheritance in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A third-party module replacing native Closures",
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Closures principles",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "An alternative syntax ignoring Event Loop principles",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A standard exception thrown by Event Loop",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A deprecated feature removed in recent JavaScript versions",
+      "An alternative syntax ignoring Promises principles",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A standard exception thrown by Promises"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "A standard exception thrown by DOM",
+      "A deprecated feature removed in recent JavaScript versions",
+      "A third-party module replacing native DOM",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "A third-party module replacing native ES6+",
+      "A legacy implementation of ES6+ in JavaScript",
+      "An alternative syntax ignoring ES6+ principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "A standard exception thrown by Prototypal Inheritance",
+      "A synchronous blocking operation in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A standard exception thrown by Closures",
+      "A synchronous blocking operation in JavaScript",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A third-party module replacing native Closures"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to Event Loop",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "A third-party module replacing native Event Loop",
+      "An alternative syntax ignoring Event Loop principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A legacy implementation of Promises in JavaScript",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript",
+      "An unoptimized O(n^2) approach to Promises"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "A standard exception thrown by DOM",
+      "A legacy implementation of DOM in JavaScript",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "ES6+",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ES6+ in JavaScript?",
+    "options": [
+      "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to ES6+",
+      "An alternative syntax ignoring ES6+ principles",
+      "A deprecated feature removed in recent JavaScript versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of ES6+ within the JavaScript ecosystem.",
+    "explanation": "Understanding ES6+ is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Prototypal Inheritance",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Prototypal Inheritance in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "A legacy implementation of Prototypal Inheritance in JavaScript",
+      "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Prototypal Inheritance principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Prototypal Inheritance within the JavaScript ecosystem.",
+    "explanation": "Understanding Prototypal Inheritance is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Closures",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Closures in JavaScript?",
+    "options": [
+      "A legacy implementation of Closures in JavaScript",
+      "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+      "A standard exception thrown by Closures",
+      "A synchronous blocking operation in JavaScript"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Closures within the JavaScript ecosystem.",
+    "explanation": "Understanding Closures is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Event Loop",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Event Loop in JavaScript?",
+    "options": [
+      "A third-party module replacing native Event Loop",
+      "An alternative syntax ignoring Event Loop principles",
+      "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+      "An unoptimized O(n^2) approach to Event Loop"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Event Loop within the JavaScript ecosystem.",
+    "explanation": "Understanding Event Loop is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "Promises",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Promises in JavaScript?",
+    "options": [
+      "A synchronous blocking operation in JavaScript",
+      "A deprecated feature removed in recent JavaScript versions",
+      "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+      "An alternative syntax ignoring Promises principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Promises within the JavaScript ecosystem.",
+    "explanation": "Understanding Promises is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "javascript",
+    "topic": "DOM",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of DOM in JavaScript?",
+    "options": [
+      "An unoptimized O(n^2) approach to DOM",
+      "An alternative syntax ignoring DOM principles",
+      "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+      "A synchronous blocking operation in JavaScript"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of DOM within the JavaScript ecosystem.",
+    "explanation": "Understanding DOM is critical in JavaScript. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

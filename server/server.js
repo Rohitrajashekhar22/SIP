@@ -6,8 +6,7 @@ import connectDB from './config/db.js';
 import userRoutes from './routes/userRoutes.js';
 import problemRoutes from './routes/problemRoutes.js';
 import compilerRoutes from './routes/compilerRoutes.js';
-import aiRoutes from './routes/aiRoutes.js';
-
+import quizRoutes from "./routes/quizRoutes.js";
 
 
 dotenv.config();
@@ -24,8 +23,7 @@ app.get('/', (req, res) => {
 app.use('/api/auth', userRoutes);
 app.use('/api/problems', problemRoutes);
 app.use('/api/compiler', compilerRoutes);
-app.use('/api/ai', aiRoutes);
-
+app.use("/api/quiz", quizRoutes);
 
 
 const PORT = process.env.PORT || 5000;

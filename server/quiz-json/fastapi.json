@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A standard exception thrown by Core Architecture",
+      "A legacy implementation of Core Architecture in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A standard exception thrown by Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A legacy implementation of Performance Optimization in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A third-party module replacing native Security",
+      "An alternative syntax ignoring Security principles",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Security"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "An alternative syntax ignoring Deployment principles",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A standard exception thrown by Core Architecture",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A standard exception thrown by Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A third-party module replacing native Security",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A legacy implementation of Security in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "A third-party module replacing native Core Architecture",
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A legacy implementation of Syntax & Semantics in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A third-party module replacing native Performance Optimization",
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "An unoptimized O(n^2) approach to Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "A standard exception thrown by Security",
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "A third-party module replacing native Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A standard exception thrown by Core Architecture",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A legacy implementation of Core Architecture in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A third-party module replacing native Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A legacy implementation of Security in FastAPI",
+      "A synchronous blocking operation in FastAPI",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Deployment principles",
+      "A third-party module replacing native Deployment",
+      "A legacy implementation of Deployment in FastAPI",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A legacy implementation of Core Architecture in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A standard exception thrown by Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Performance Optimization principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A legacy implementation of Deployment in FastAPI",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "An alternative syntax ignoring Core Architecture principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A legacy implementation of Syntax & Semantics in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "An unoptimized O(n^2) approach to Security",
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A third-party module replacing native Core Architecture",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "A synchronous blocking operation in FastAPI",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A standard exception thrown by Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A third-party module replacing native Performance Optimization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Security principles",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Security",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "An alternative syntax ignoring Deployment principles",
+      "A third-party module replacing native Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A third-party module replacing native Core Architecture",
+      "A legacy implementation of Core Architecture in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in FastAPI",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Security principles",
+      "A legacy implementation of Security in FastAPI",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Deployment principles",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "A legacy implementation of Syntax & Semantics in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A legacy implementation of Security in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A legacy implementation of Deployment in FastAPI",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Deployment",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A legacy implementation of Core Architecture in FastAPI",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A third-party module replacing native Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A third-party module replacing native Syntax & Semantics",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A third-party module replacing native Security",
+      "An alternative syntax ignoring Security principles",
+      "An unoptimized O(n^2) approach to Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A standard exception thrown by Deployment",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A legacy implementation of Core Architecture in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A third-party module replacing native Core Architecture",
+      "An unoptimized O(n^2) approach to Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "A third-party module replacing native Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Syntax & Semantics principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A legacy implementation of Security in FastAPI",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A standard exception thrown by Security",
+      "An unoptimized O(n^2) approach to Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A third-party module replacing native Core Architecture",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Security principles",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A legacy implementation of Core Architecture in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A standard exception thrown by Core Architecture"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A standard exception thrown by Syntax & Semantics",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A standard exception thrown by Security",
+      "A third-party module replacing native Security",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A legacy implementation of Deployment in FastAPI",
+      "A standard exception thrown by Deployment",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A legacy implementation of Core Architecture in FastAPI",
+      "A synchronous blocking operation in FastAPI",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "An alternative syntax ignoring Security principles",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Deployment"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "A legacy implementation of Core Architecture in FastAPI",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A standard exception thrown by Syntax & Semantics",
+      "A deprecated feature removed in recent FastAPI versions",
+      "An alternative syntax ignoring Syntax & Semantics principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A third-party module replacing native Performance Optimization",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A standard exception thrown by Security",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A legacy implementation of Deployment in FastAPI",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A legacy implementation of Core Architecture in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in FastAPI",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A legacy implementation of Security in FastAPI",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A standard exception thrown by Security",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A legacy implementation of Deployment in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A legacy implementation of Core Architecture in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Security principles",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A deprecated feature removed in recent FastAPI versions",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A legacy implementation of Core Architecture in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in FastAPI",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "A legacy implementation of Security in FastAPI"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "A deprecated feature removed in recent FastAPI versions",
+      "A standard exception thrown by Deployment",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A third-party module replacing native Core Architecture",
+      "A legacy implementation of Core Architecture in FastAPI",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "A legacy implementation of Performance Optimization in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Security",
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "A deprecated feature removed in recent FastAPI versions",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the FastAPI ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in FastAPI?",
+    "options": [
+      "A synchronous blocking operation in FastAPI",
+      "A legacy implementation of Syntax & Semantics in FastAPI",
+      "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Syntax & Semantics principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the FastAPI ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in FastAPI?",
+    "options": [
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A synchronous blocking operation in FastAPI"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the FastAPI ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in FastAPI?",
+    "options": [
+      "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+      "A synchronous blocking operation in FastAPI",
+      "An unoptimized O(n^2) approach to Security",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the FastAPI ecosystem.",
+    "explanation": "Understanding Security is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "fastapi",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in FastAPI?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "A deprecated feature removed in recent FastAPI versions",
+      "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the FastAPI ecosystem.",
+    "explanation": "Understanding Deployment is critical in FastAPI. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

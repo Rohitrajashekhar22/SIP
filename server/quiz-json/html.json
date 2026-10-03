@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A standard exception thrown by Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A third-party module replacing native Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Security",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A standard exception thrown by Deployment",
+      "A legacy implementation of Deployment in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A standard exception thrown by Core Architecture",
+      "A legacy implementation of Core Architecture in HTML",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A legacy implementation of Performance Optimization in HTML",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Security principles",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "A legacy implementation of Deployment in HTML",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "A synchronous blocking operation in HTML",
+      "A legacy implementation of Core Architecture in HTML",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "A standard exception thrown by Syntax & Semantics",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A third-party module replacing native Performance Optimization",
+      "A legacy implementation of Performance Optimization in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A legacy implementation of Security in HTML",
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A standard exception thrown by Security"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A legacy implementation of Deployment in HTML",
+      "An alternative syntax ignoring Deployment principles",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A deprecated feature removed in recent HTML versions",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A legacy implementation of Performance Optimization in HTML",
+      "A third-party module replacing native Performance Optimization"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A standard exception thrown by Security",
+      "A legacy implementation of Security in HTML",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Deployment"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A legacy implementation of Core Architecture in HTML",
+      "A standard exception thrown by Core Architecture"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A standard exception thrown by Performance Optimization",
+      "A legacy implementation of Performance Optimization in HTML",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A legacy implementation of Security in HTML",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "An alternative syntax ignoring Security principles",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions",
+      "A standard exception thrown by Deployment",
+      "A legacy implementation of Deployment in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A standard exception thrown by Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A third-party module replacing native Performance Optimization",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A third-party module replacing native Security",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "An unoptimized O(n^2) approach to Deployment",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A third-party module replacing native Syntax & Semantics",
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "A third-party module replacing native Performance Optimization",
+      "A legacy implementation of Performance Optimization in HTML",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A standard exception thrown by Security",
+      "A deprecated feature removed in recent HTML versions",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A standard exception thrown by Deployment",
+      "An unoptimized O(n^2) approach to Deployment"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A legacy implementation of Core Architecture in HTML",
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Core Architecture principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "A third-party module replacing native Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A deprecated feature removed in recent HTML versions",
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A third-party module replacing native Security",
+      "A legacy implementation of Security in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A standard exception thrown by Deployment"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A third-party module replacing native Performance Optimization",
+      "A standard exception thrown by Performance Optimization"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "An alternative syntax ignoring Security principles",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A legacy implementation of Deployment in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A legacy implementation of Core Architecture in HTML",
+      "An alternative syntax ignoring Core Architecture principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A third-party module replacing native Performance Optimization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A legacy implementation of Security in HTML",
+      "A deprecated feature removed in recent HTML versions",
+      "A standard exception thrown by Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "An alternative syntax ignoring Deployment principles",
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A third-party module replacing native Core Architecture",
+      "An unoptimized O(n^2) approach to Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A third-party module replacing native Syntax & Semantics",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "A third-party module replacing native Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Performance Optimization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A third-party module replacing native Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Security",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "An alternative syntax ignoring Deployment principles",
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A third-party module replacing native Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A synchronous blocking operation in HTML",
+      "A standard exception thrown by Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A legacy implementation of Security in HTML",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A standard exception thrown by Deployment",
+      "A deprecated feature removed in recent HTML versions",
+      "A legacy implementation of Deployment in HTML",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A legacy implementation of Core Architecture in HTML",
+      "A standard exception thrown by Core Architecture",
+      "A third-party module replacing native Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A synchronous blocking operation in HTML",
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A third-party module replacing native Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A legacy implementation of Performance Optimization in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A third-party module replacing native Security",
+      "An alternative syntax ignoring Security principles",
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Security within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "An alternative syntax ignoring Deployment principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A third-party module replacing native Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A standard exception thrown by Core Architecture",
+      "An alternative syntax ignoring Core Architecture principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A standard exception thrown by Syntax & Semantics",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A third-party module replacing native Performance Optimization",
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A standard exception thrown by Security",
+      "A third-party module replacing native Security",
+      "An unoptimized O(n^2) approach to Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Deployment",
+      "A legacy implementation of Deployment in HTML",
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A legacy implementation of Core Architecture in HTML",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A third-party module replacing native Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A standard exception thrown by Syntax & Semantics",
+      "A third-party module replacing native Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A standard exception thrown by Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A legacy implementation of Security in HTML",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "An alternative syntax ignoring Deployment principles",
+      "A third-party module replacing native Deployment",
+      "A legacy implementation of Deployment in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A legacy implementation of Core Architecture in HTML",
+      "A deprecated feature removed in recent HTML versions",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A third-party module replacing native Syntax & Semantics",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "An alternative syntax ignoring Performance Optimization principles",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "An alternative syntax ignoring Security principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A legacy implementation of Deployment in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions",
+      "A standard exception thrown by Core Architecture"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A synchronous blocking operation in HTML",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A third-party module replacing native Security",
+      "An unoptimized O(n^2) approach to Security"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Core Architecture",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML",
+      "A legacy implementation of Core Architecture in HTML"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A standard exception thrown by Syntax & Semantics"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A third-party module replacing native Performance Optimization",
+      "A deprecated feature removed in recent HTML versions",
+      "A legacy implementation of Performance Optimization in HTML"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "A legacy implementation of Security in HTML",
+      "A standard exception thrown by Security",
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A third-party module replacing native Security"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A third-party module replacing native Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A standard exception thrown by Deployment",
+      "An unoptimized O(n^2) approach to Deployment"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "An alternative syntax ignoring Core Architecture principles",
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "A standard exception thrown by Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Syntax & Semantics"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A legacy implementation of Performance Optimization in HTML",
+      "An unoptimized O(n^2) approach to Performance Optimization",
+      "A standard exception thrown by Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Security within the HTML ecosystem.",
+      "A third-party module replacing native Security",
+      "An unoptimized O(n^2) approach to Security",
+      "A deprecated feature removed in recent HTML versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A deprecated feature removed in recent HTML versions",
+      "A standard exception thrown by Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A synchronous blocking operation in HTML"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Core Architecture",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Core Architecture in HTML?",
+    "options": [
+      "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+      "An alternative syntax ignoring Core Architecture principles",
+      "A legacy implementation of Core Architecture in HTML",
+      "An unoptimized O(n^2) approach to Core Architecture"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Core Architecture within the HTML ecosystem.",
+    "explanation": "Understanding Core Architecture is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Syntax & Semantics",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Syntax & Semantics in HTML?",
+    "options": [
+      "An alternative syntax ignoring Syntax & Semantics principles",
+      "A legacy implementation of Syntax & Semantics in HTML",
+      "An unoptimized O(n^2) approach to Syntax & Semantics",
+      "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Syntax & Semantics within the HTML ecosystem.",
+    "explanation": "Understanding Syntax & Semantics is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Performance Optimization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Performance Optimization in HTML?",
+    "options": [
+      "A standard exception thrown by Performance Optimization",
+      "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+      "A deprecated feature removed in recent HTML versions",
+      "An unoptimized O(n^2) approach to Performance Optimization"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Performance Optimization within the HTML ecosystem.",
+    "explanation": "Understanding Performance Optimization is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Security",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Security in HTML?",
+    "options": [
+      "An alternative syntax ignoring Security principles",
+      "A standard exception thrown by Security",
+      "A deprecated feature removed in recent HTML versions",
+      "It manages the core execution and optimization of Security within the HTML ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Security within the HTML ecosystem.",
+    "explanation": "Understanding Security is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "html",
+    "topic": "Deployment",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Deployment in HTML?",
+    "options": [
+      "A synchronous blocking operation in HTML",
+      "An unoptimized O(n^2) approach to Deployment",
+      "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+      "A third-party module replacing native Deployment"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Deployment within the HTML ecosystem.",
+    "explanation": "Understanding Deployment is critical in HTML. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]

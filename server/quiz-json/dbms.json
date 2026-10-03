@@ -1,0 +1,1602 @@
+[
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A third-party module replacing native Normalization",
+      "An unoptimized O(n^2) approach to Normalization",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A standard exception thrown by Transactions",
+      "An alternative syntax ignoring Transactions principles",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to ACID",
+      "A synchronous blocking operation in DBMS",
+      "A third-party module replacing native ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A legacy implementation of Indexing in DBMS",
+      "A standard exception thrown by Indexing",
+      "An unoptimized O(n^2) approach to Indexing",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "A standard exception thrown by NoSQL",
+      "An unoptimized O(n^2) approach to NoSQL",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A third-party module replacing native Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "An alternative syntax ignoring Normalization principles",
+      "A legacy implementation of Normalization in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of Transactions in DBMS",
+      "An alternative syntax ignoring Transactions principles",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "An unoptimized O(n^2) approach to ACID",
+      "A third-party module replacing native ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A legacy implementation of Indexing in DBMS",
+      "A standard exception thrown by Indexing",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A standard exception thrown by NoSQL",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A third-party module replacing native NoSQL",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Relational Algebra principles",
+      "A synchronous blocking operation in DBMS",
+      "A third-party module replacing native Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Normalization",
+      "A legacy implementation of Normalization in DBMS",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Transactions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A legacy implementation of Transactions in DBMS",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of ACID in DBMS",
+      "An alternative syntax ignoring ACID principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "An unoptimized O(n^2) approach to NoSQL",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A standard exception thrown by NoSQL"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A third-party module replacing native Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions",
+      "A legacy implementation of Relational Algebra in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Normalization",
+      "A deprecated feature removed in recent DBMS versions",
+      "A standard exception thrown by Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A legacy implementation of Transactions in DBMS",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring Transactions principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A standard exception thrown by ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to ACID",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A standard exception thrown by Indexing",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of Indexing in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "A standard exception thrown by NoSQL",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A legacy implementation of NoSQL in DBMS"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A third-party module replacing native Relational Algebra",
+      "An alternative syntax ignoring Relational Algebra principles",
+      "A standard exception thrown by Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "An alternative syntax ignoring Normalization principles",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A third-party module replacing native Transactions",
+      "An unoptimized O(n^2) approach to Transactions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of ACID in DBMS",
+      "An alternative syntax ignoring ACID principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A standard exception thrown by Indexing",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "An alternative syntax ignoring Indexing principles",
+      "A third-party module replacing native Indexing"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A legacy implementation of NoSQL in DBMS",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A standard exception thrown by NoSQL",
+      "An unoptimized O(n^2) approach to NoSQL"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Easy",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of Relational Algebra in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Easy complexity level.",
+    "marks": 1
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "A standard exception thrown by Normalization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A third-party module replacing native Transactions",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "A standard exception thrown by ACID",
+      "An alternative syntax ignoring ACID principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A third-party module replacing native Indexing",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A standard exception thrown by NoSQL",
+      "An alternative syntax ignoring NoSQL principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions",
+      "A third-party module replacing native Relational Algebra"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Normalization",
+      "A standard exception thrown by Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "An alternative syntax ignoring Normalization principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS",
+      "An unoptimized O(n^2) approach to Transactions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A legacy implementation of ACID in DBMS",
+      "A standard exception thrown by ACID",
+      "A third-party module replacing native ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A standard exception thrown by Indexing",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions",
+      "An unoptimized O(n^2) approach to Indexing"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A legacy implementation of NoSQL in DBMS",
+      "An alternative syntax ignoring NoSQL principles"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A legacy implementation of Relational Algebra in DBMS",
+      "An unoptimized O(n^2) approach to Relational Algebra"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A standard exception thrown by Normalization",
+      "A legacy implementation of Normalization in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to Normalization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A standard exception thrown by Transactions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A legacy implementation of Transactions in DBMS",
+      "A third-party module replacing native Transactions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of ACID in DBMS",
+      "An alternative syntax ignoring ACID principles",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "An unoptimized O(n^2) approach to Indexing",
+      "An alternative syntax ignoring Indexing principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A legacy implementation of NoSQL in DBMS",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A third-party module replacing native NoSQL"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A standard exception thrown by Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions",
+      "A third-party module replacing native Relational Algebra"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Normalization",
+      "A deprecated feature removed in recent DBMS versions",
+      "A legacy implementation of Normalization in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "An unoptimized O(n^2) approach to Transactions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to ACID",
+      "A third-party module replacing native ACID",
+      "A legacy implementation of ACID in DBMS",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to Indexing",
+      "An alternative syntax ignoring Indexing principles",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to NoSQL",
+      "A legacy implementation of NoSQL in DBMS",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "An alternative syntax ignoring NoSQL principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A standard exception thrown by Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A legacy implementation of Relational Algebra in DBMS"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of Normalization in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to Normalization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A third-party module replacing native Transactions",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A legacy implementation of ACID in DBMS",
+      "A third-party module replacing native ACID",
+      "A standard exception thrown by ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A standard exception thrown by NoSQL",
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A third-party module replacing native Relational Algebra",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A legacy implementation of Relational Algebra in DBMS"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Normalization principles",
+      "A standard exception thrown by Normalization",
+      "An unoptimized O(n^2) approach to Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Transactions",
+      "A legacy implementation of Transactions in DBMS",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "An alternative syntax ignoring Transactions principles"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "An alternative syntax ignoring ACID principles",
+      "A third-party module replacing native ACID"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A legacy implementation of Indexing in DBMS",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A standard exception thrown by NoSQL",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of NoSQL in DBMS",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Relational Algebra",
+      "A legacy implementation of Relational Algebra in DBMS",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A standard exception thrown by Relational Algebra"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "An alternative syntax ignoring Normalization principles",
+      "A synchronous blocking operation in DBMS",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A third-party module replacing native Transactions"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A standard exception thrown by ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of ACID in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A third-party module replacing native Indexing",
+      "A synchronous blocking operation in DBMS",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "An alternative syntax ignoring NoSQL principles",
+      "An unoptimized O(n^2) approach to NoSQL",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "An alternative syntax ignoring Relational Algebra principles",
+      "A deprecated feature removed in recent DBMS versions",
+      "An unoptimized O(n^2) approach to Relational Algebra"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A legacy implementation of Normalization in DBMS",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to Normalization"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A legacy implementation of Transactions in DBMS",
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring Transactions principles",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A third-party module replacing native ACID",
+      "An unoptimized O(n^2) approach to ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to Indexing",
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to NoSQL",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of NoSQL in DBMS"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A third-party module replacing native Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A deprecated feature removed in recent DBMS versions",
+      "An unoptimized O(n^2) approach to Relational Algebra"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS",
+      "A legacy implementation of Normalization in DBMS",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Medium",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A legacy implementation of Transactions in DBMS",
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring Transactions principles"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Medium complexity level.",
+    "marks": 2
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A third-party module replacing native ACID",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A legacy implementation of NoSQL in DBMS",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "A third-party module replacing native NoSQL",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "A standard exception thrown by Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "An alternative syntax ignoring Relational Algebra principles",
+      "A synchronous blocking operation in DBMS"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring Normalization principles",
+      "An unoptimized O(n^2) approach to Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring Transactions principles",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "A legacy implementation of ACID in DBMS",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "A standard exception thrown by ACID"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "A third-party module replacing native Indexing",
+      "A synchronous blocking operation in DBMS",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "A standard exception thrown by Indexing"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "An alternative syntax ignoring NoSQL principles",
+      "A deprecated feature removed in recent DBMS versions",
+      "A third-party module replacing native NoSQL",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Relational Algebra principles",
+      "An unoptimized O(n^2) approach to Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "A third-party module replacing native Relational Algebra"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A deprecated feature removed in recent DBMS versions",
+      "A synchronous blocking operation in DBMS",
+      "A standard exception thrown by Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Transactions principles",
+      "An unoptimized O(n^2) approach to Transactions",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring ACID principles",
+      "A legacy implementation of ACID in DBMS"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+      "An alternative syntax ignoring Indexing principles",
+      "A standard exception thrown by Indexing",
+      "A deprecated feature removed in recent DBMS versions"
+    ],
+    "correctAnswer": 0,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "NoSQL",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of NoSQL in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "A deprecated feature removed in recent DBMS versions",
+      "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to NoSQL"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of NoSQL within the DBMS ecosystem.",
+    "explanation": "Understanding NoSQL is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Relational Algebra",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Relational Algebra in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Relational Algebra principles",
+      "A third-party module replacing native Relational Algebra",
+      "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+      "An unoptimized O(n^2) approach to Relational Algebra"
+    ],
+    "correctAnswer": 2,
+    "correctAnswerText": "It manages the core execution and optimization of Relational Algebra within the DBMS ecosystem.",
+    "explanation": "Understanding Relational Algebra is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Normalization",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Normalization in DBMS?",
+    "options": [
+      "A synchronous blocking operation in DBMS",
+      "An alternative syntax ignoring Normalization principles",
+      "A standard exception thrown by Normalization",
+      "It manages the core execution and optimization of Normalization within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Normalization within the DBMS ecosystem.",
+    "explanation": "Understanding Normalization is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Transactions",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Transactions in DBMS?",
+    "options": [
+      "An unoptimized O(n^2) approach to Transactions",
+      "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+      "A synchronous blocking operation in DBMS",
+      "A standard exception thrown by Transactions"
+    ],
+    "correctAnswer": 1,
+    "correctAnswerText": "It manages the core execution and optimization of Transactions within the DBMS ecosystem.",
+    "explanation": "Understanding Transactions is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "ACID",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of ACID in DBMS?",
+    "options": [
+      "An alternative syntax ignoring ACID principles",
+      "A synchronous blocking operation in DBMS",
+      "An unoptimized O(n^2) approach to ACID",
+      "It manages the core execution and optimization of ACID within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of ACID within the DBMS ecosystem.",
+    "explanation": "Understanding ACID is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  },
+  {
+    "technology": "dbms",
+    "topic": "Indexing",
+    "difficulty": "Hard",
+    "question": "Which of the following statements most accurately describes the behavior of Indexing in DBMS?",
+    "options": [
+      "An alternative syntax ignoring Indexing principles",
+      "An unoptimized O(n^2) approach to Indexing",
+      "A legacy implementation of Indexing in DBMS",
+      "It manages the core execution and optimization of Indexing within the DBMS ecosystem."
+    ],
+    "correctAnswer": 3,
+    "correctAnswerText": "It manages the core execution and optimization of Indexing within the DBMS ecosystem.",
+    "explanation": "Understanding Indexing is critical in DBMS. This ensures optimal performance and standard compliance at a Hard complexity level.",
+    "marks": 3
+  }
+]
