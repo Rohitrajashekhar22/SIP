@@ -3,8 +3,8 @@ This Project is a MERN stack interview preparation platform.
 The goal is simple: give students one place to practice coding problems, write and run code, take technical quizzes, find coding contests, and later get help from an AI mentor.
 ⚠️ Current Status
 Disclaimer: PrepNexus is still under active development.
-The frontend is in progress and several pages are still basic or incomplete.
-The backend is also in progress. The main working areas are authentication, coding problems, quizzes, and code execution. Other parts such as the AI Mentor backend, mock tests, progress tracking, user management, and some middleware are still being implemented.
+The frontend is in progress and several pages are still basic.
+The backend is also in progress. The  areas such as authentication, coding problems, quizzes, and code execution are completely developed. Other parts such as the AI Mentor backend, mock tests, progress tracking, user management are under development.
 This README describes the current state of the project, not a finished product.
 Swagger/OpenAPI is not currently part of the project. The backend can be tested with normal API tools such as Postman or cURL. Swagger can be added later as API documentation, but it is not required for a MERN application.
 
